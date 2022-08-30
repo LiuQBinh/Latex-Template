@@ -2,3 +2,16 @@
 \contentsline {section}{\numberline {2}Relation \& Counting}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Problem 1}{2}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Method of solving system of differential equations}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsubsection}{\numberline {2.1.1.a}\Delta > 0,\ Real\ Eigenvalues,\ (4)\ have\ 2\ solution \lambda _1, \lambda _2}{3}{subsubsubsection.2.1.1.1}%
+\contentsline {subsubsubsection}{\numberline {2.1.1.b}\Delta < 0,\ Complex\ Eigenvalues,\ \lambda _\(1,2\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}%
+\contentsline {subsubsubsection}{\numberline {2.1.1.c}\Delta = 0,\ Repeated\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}%
+\contentsline {subsection}{\numberline {2.2}Problem 2}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Bonus exercises}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Probabilty}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Problem 1}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Problem 2}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Bonus exercises}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Graph}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Problem 1}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Problem 2}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Bonus exercises}{6}{subsection.4.3}%
