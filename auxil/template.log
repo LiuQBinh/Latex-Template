@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  4 SEP 2022 01:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  4 SEP 2022 03:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,6 +650,57 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\vncaps.tex
 File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
 ))
+(C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\empheq.sty
+Package: empheq 2017/03/31 v2.15 Emphasizing equations
+
+(C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+
+(C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count294
+\calc@Bcount=\count295
+\calc@Adimen=\dimen183
+\calc@Bdimen=\dimen184
+\calc@Askip=\skip88
+\calc@Bskip=\skip89
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count296
+\calc@Cskip=\skip90
+)
+\g_MT_multlinerow_int=\count297
+\l_MT_multwidth_dim=\dimen185
+\origjot=\skip91
+\l_MT_shortvdotswithinadjustabove_dim=\dimen186
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen187
+\l_MT_above_intertext_sep=\dimen188
+\l_MT_below_intertext_sep=\dimen189
+\l_MT_above_shortintertext_sep=\dimen190
+\l_MT_below_shortintertext_sep=\dimen191
+\xmathstrut@box=\box109
+\xmathstrut@dim=\dimen192
+)
+\l_EQ_equationtype_int=\count298
+\l_EQ_alignmentmode_int=\count299
+\l_EQ_totalwidth_dim=\dimen193
+\l_EQ_displaywidth_dim=\dimen194
+\l_EQ_temp_linewidth_dim=\dimen195
+\l_EQ_linewidth_dim=\dimen196
+\EmphEqdelimitershortfall=\dimen197
+\EmphEqdelimiterfactor=\count300
+\g_EQ_toptag_height_dim=\dimen198
+\g_EQ_bottomtag_depth_dim=\dimen199
+\g_EQ_toprow_height_dim=\dimen256
+\g_EQ_bottomrow_depth_dim=\dimen257
+\g_EQ_widesttag_dim=\dimen258
+\EQ_mathdisplay_box=\box110
+\EQ_tag_box=\box111
+\g_EQ_temprow_int=\count301
+)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -659,17 +710,17 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count294
-\Gm@cntv=\count295
-\c@Gm@tempcnt=\count296
-\Gm@bindingoffset=\dimen183
-\Gm@wd@mp=\dimen184
-\Gm@odd@mp=\dimen185
-\Gm@even@mp=\dimen186
-\Gm@layoutwidth=\dimen187
-\Gm@layoutheight=\dimen188
-\Gm@layouthoffset=\dimen189
-\Gm@layoutvoffset=\dimen190
+\Gm@cnth=\count302
+\Gm@cntv=\count303
+\c@Gm@tempcnt=\count304
+\Gm@bindingoffset=\dimen259
+\Gm@wd@mp=\dimen260
+\Gm@odd@mp=\dimen261
+\Gm@even@mp=\dimen262
+\Gm@layoutwidth=\dimen263
+\Gm@layoutheight=\dimen264
+\Gm@layouthoffset=\dimen265
+\Gm@layoutvoffset=\dimen266
 \Gm@dimlist=\toks31
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
@@ -684,14 +735,14 @@ ty
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 common.tex
 \pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen191
-\pgfutil@tempdimb=\dimen192
+\pgfutil@tempdima=\dimen267
+\pgfutil@tempdimb=\dimen268
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 common-lists.tex))
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
 latex.def
-\pgfutil@abb=\box109
+\pgfutil@abb=\box112
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
 ode.tex
@@ -717,26 +768,26 @@ code.tex
 iltered.code.tex
 \pgfkeys@tmptoks=\toks35
 ))
-\pgf@x=\dimen193
-\pgf@y=\dimen194
-\pgf@xa=\dimen195
-\pgf@ya=\dimen196
-\pgf@xb=\dimen197
-\pgf@yb=\dimen198
-\pgf@xc=\dimen199
-\pgf@yc=\dimen256
-\pgf@xd=\dimen257
-\pgf@yd=\dimen258
+\pgf@x=\dimen269
+\pgf@y=\dimen270
+\pgf@xa=\dimen271
+\pgf@ya=\dimen272
+\pgf@xb=\dimen273
+\pgf@yb=\dimen274
+\pgf@xc=\dimen275
+\pgf@yc=\dimen276
+\pgf@xd=\dimen277
+\pgf@yd=\dimen278
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count297
-\c@pgf@countb=\count298
-\c@pgf@countc=\count299
-\c@pgf@countd=\count300
+\c@pgf@counta=\count305
+\c@pgf@countb=\count306
+\c@pgf@countc=\count307
+\c@pgf@countd=\count308
 \t@pgf@toka=\toks36
 \t@pgf@tokb=\toks37
 \t@pgf@tokc=\toks38
-\pgf@sys@id@count=\count301
+\pgf@sys@id@count=\count309
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
 g
@@ -755,8 +806,8 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 softpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count302
-\pgfsyssoftpath@bigbuffer@items=\count303
+\pgfsyssoftpath@smallbuffer@items=\count310
+\pgfsyssoftpath@bigbuffer@items=\count311
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
 protocol.code.tex
@@ -795,9 +846,9 @@ ode.tex
 ode.tex)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
 .code.tex
-\pgfmath@dimen=\dimen259
-\pgfmath@count=\count304
-\pgfmath@box=\box110
+\pgfmath@dimen=\dimen279
+\pgfmath@count=\count312
+\pgfmath@box=\box113
 \pgfmath@toks=\toks39
 \pgfmath@stack@operand=\toks40
 \pgfmath@stack@operation=\toks41
@@ -822,59 +873,59 @@ ons.misc.code.tex)
 ons.integerarithmetics.code.tex)))
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
 code.tex
-\c@pgfmathroundto@lastzeros=\count305
+\c@pgfmathroundto@lastzeros=\count313
 ))
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
 ex)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 points.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen260
-\pgf@picmaxx=\dimen261
-\pgf@picminy=\dimen262
-\pgf@picmaxy=\dimen263
-\pgf@pathminx=\dimen264
-\pgf@pathmaxx=\dimen265
-\pgf@pathminy=\dimen266
-\pgf@pathmaxy=\dimen267
-\pgf@xx=\dimen268
-\pgf@xy=\dimen269
-\pgf@yx=\dimen270
-\pgf@yy=\dimen271
-\pgf@zx=\dimen272
-\pgf@zy=\dimen273
+\pgf@picminx=\dimen280
+\pgf@picmaxx=\dimen281
+\pgf@picminy=\dimen282
+\pgf@picmaxy=\dimen283
+\pgf@pathminx=\dimen284
+\pgf@pathmaxx=\dimen285
+\pgf@pathminy=\dimen286
+\pgf@pathmaxy=\dimen287
+\pgf@xx=\dimen288
+\pgf@xy=\dimen289
+\pgf@yx=\dimen290
+\pgf@yy=\dimen291
+\pgf@zx=\dimen292
+\pgf@zy=\dimen293
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen274
-\pgf@path@lasty=\dimen275
+\pgf@path@lastx=\dimen294
+\pgf@path@lasty=\dimen295
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 pathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen276
-\pgf@shorten@start@additional=\dimen277
+\pgf@shorten@end@additional=\dimen296
+\pgf@shorten@start@additional=\dimen297
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 scopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box111
-\pgf@hbox=\box112
-\pgf@layerbox@main=\box113
-\pgf@picture@serial@count=\count306
+\pgfpic=\box114
+\pgf@hbox=\box115
+\pgf@layerbox@main=\box116
+\pgf@picture@serial@count=\count314
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 graphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen278
+\pgflinewidth=\dimen298
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 transformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen279
-\pgf@pt@y=\dimen280
-\pgf@pt@temp=\dimen281
+\pgf@pt@x=\dimen299
+\pgf@pt@y=\dimen300
+\pgf@pt@temp=\dimen301
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 quick.code.tex
@@ -891,14 +942,14 @@ File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 arrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen282
+\pgfarrowsep=\dimen302
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 shade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen283
-\pgf@sys@shading@range@num=\count307
-\pgf@shadingcount=\count308
+\pgf@max=\dimen303
+\pgf@sys@shading@range@num=\count315
+\pgf@shadingcount=\count316
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 image.code.tex
@@ -907,7 +958,7 @@ File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 external.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box114
+\pgfexternal@startupbox=\box117
 ))
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
 layers.code.tex
@@ -928,7 +979,7 @@ File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
 hapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box115
+\pgfnodeparttextbox=\box118
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
 lot.code.tex
@@ -937,8 +988,8 @@ File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen284
-\pgf@nodesepend=\dimen285
+\pgf@nodesepstart=\dimen304
+\pgf@nodesepend=\dimen305
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
 p-version-1-18.sty
@@ -959,8 +1010,8 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
 tex)
-\pgffor@iter=\dimen286
-\pgffor@skip=\dimen287
+\pgffor@iter=\dimen306
+\pgffor@skip=\dimen307
 \pgffor@stack=\toks42
 \pgffor@toks=\toks43
 ))
@@ -971,34 +1022,34 @@ Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count309
-\pgfplotmarksize=\dimen288
+\pgf@plot@mark@count=\count317
+\pgfplotmarksize=\dimen308
 )
-\tikz@lastx=\dimen289
-\tikz@lasty=\dimen290
-\tikz@lastxsaved=\dimen291
-\tikz@lastysaved=\dimen292
-\tikz@lastmovetox=\dimen293
-\tikz@lastmovetoy=\dimen294
-\tikzleveldistance=\dimen295
-\tikzsiblingdistance=\dimen296
-\tikz@figbox=\box116
-\tikz@figbox@bg=\box117
-\tikz@tempbox=\box118
-\tikz@tempbox@bg=\box119
-\tikztreelevel=\count310
-\tikznumberofchildren=\count311
-\tikznumberofcurrentchild=\count312
-\tikz@fig@count=\count313
+\tikz@lastx=\dimen309
+\tikz@lasty=\dimen310
+\tikz@lastxsaved=\dimen311
+\tikz@lastysaved=\dimen312
+\tikz@lastmovetox=\dimen313
+\tikz@lastmovetoy=\dimen314
+\tikzleveldistance=\dimen315
+\tikzsiblingdistance=\dimen316
+\tikz@figbox=\box119
+\tikz@figbox@bg=\box120
+\tikz@tempbox=\box121
+\tikz@tempbox@bg=\box122
+\tikztreelevel=\count318
+\tikznumberofchildren=\count319
+\tikznumberofcurrentchild=\count320
+\tikz@fig@count=\count321
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
 atrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count314
-\pgfmatrixcurrentcolumn=\count315
-\pgf@matrix@numberofcolumns=\count316
+\pgfmatrixcurrentrow=\count322
+\pgfmatrixcurrentcolumn=\count323
+\pgf@matrix@numberofcolumns=\count324
 )
-\tikz@expandcount=\count317
+\tikz@expandcount=\count325
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
 /libraries\tikzlibrarytopaths.code.tex
@@ -1011,7 +1062,7 @@ File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
 ryarrows.code.tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen297
+\arrowsize=\dimen317
 ))
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
 /libraries\tikzlibrarysnakes.code.tex
@@ -1028,16 +1079,16 @@ Package pgf Warning: Snakes have been superseded by decorations. Please use the
 /libraries\tikzlibrarydecorations.code.tex
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduled
 ecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen298
-\pgfdecoratedremainingdistance=\dimen299
-\pgfdecoratedinputsegmentcompleteddistance=\dimen300
-\pgfdecoratedinputsegmentremainingdistance=\dimen301
-\pgf@decorate@distancetomove=\dimen302
-\pgf@decorate@repeatstate=\count318
-\pgfdecorationsegmentamplitude=\dimen303
-\pgfdecorationsegmentlength=\dimen304
+\pgfdecoratedcompleteddistance=\dimen318
+\pgfdecoratedremainingdistance=\dimen319
+\pgfdecoratedinputsegmentcompleteddistance=\dimen320
+\pgfdecoratedinputsegmentremainingdistance=\dimen321
+\pgf@decorate@distancetomove=\dimen322
+\pgf@decorate@repeatstate=\count326
+\pgfdecorationsegmentamplitude=\dimen323
+\pgfdecorationsegmentlength=\dimen324
 )
-\tikz@lib@dec@box=\box120
+\tikz@lib@dec@box=\box123
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
 ons\pgflibrarydecorations.pathmorphing.code.tex))
@@ -1052,8 +1103,8 @@ ons\pgflibrarydecorations.shapes.code.tex)))
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
 /libraries\tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@layerbox@background=\box121
-\pgf@layerboxsaved@background=\box122
+\pgf@layerbox@background=\box124
+\pgf@layerboxsaved@background=\box125
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
@@ -1106,11 +1157,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count319
+\c@section@level=\count327
 )
-\@linkdim=\dimen305
-\Hy@linkcounter=\count320
-\Hy@pagecounter=\count321
+\@linkdim=\dimen325
+\Hy@linkcounter=\count328
+\Hy@pagecounter=\count329
  (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -1122,7 +1173,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count322
+\Hy@SavedSpaceFactor=\count330
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -1135,14 +1186,14 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4408.
-\c@Hy@tempcnt=\count323
+\c@Hy@tempcnt=\count331
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4746.
-\XeTeXLinkMargin=\dimen306
+\XeTeXLinkMargin=\dimen326
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -1152,9 +1203,9 @@ sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count324
-\Field@Width=\dimen307
-\Fld@charsize=\dimen308
+\Fld@menulength=\count332
+\Field@Width=\dimen327
+\Fld@charsize=\dimen328
 Package hyperref Info: Hyper figures OFF on input line 6024.
 Package hyperref Info: Link nesting OFF on input line 6029.
 Package hyperref Info: Hyper index ON on input line 6032.
@@ -1167,9 +1218,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6054.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count325
-\c@Item=\count326
-\c@Hfootnote=\count327
+\Hy@abspage=\count333
+\c@Item=\count334
+\c@Hfootnote=\count335
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -1181,8 +1232,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count328
-\c@bookmark@seq@number=\count329
+\Fld@listcount=\count336
+\c@bookmark@seq@number=\count337
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
 check.sty
@@ -1195,9 +1246,9 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip88
+\Hy@SectionHShift=\skip92
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+Package hyperref Info: Option `colorlinks' set `true' on input line 21.
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
 Package: physics 
@@ -1209,52 +1260,52 @@ Package: expl3 2022-07-04 L3 programming layer (loader)
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count330
-\l__pdf_internal_box=\box123
+\l__color_backend_stack_int=\count338
+\l__pdf_internal_box=\box126
 ))
 Package: xparse 2022-06-22 L3 Experimental document command parser
 ))
-\c@theorem=\count331
-\c@property=\count332
-\c@proposition=\count333
-\c@subsubsubsection=\count334
+\c@theorem=\count339
+\c@property=\count340
+\c@proposition=\count341
+\c@subsubsubsection=\count342
  (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count335
-\scratchdimen=\dimen309
-\scratchbox=\box124
-\nofMPsegments=\count336
-\nofMParguments=\count337
+\scratchcounter=\count343
+\scratchdimen=\dimen329
+\scratchbox=\box127
+\nofMPsegments=\count344
+\nofMParguments=\count345
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count338
-\MPscratchDim=\dimen310
-\MPnumerator=\count339
-\makeMPintoPDFobject=\count340
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen330
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
 \everyMPtoPDFconversion=\toks45
 )
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
@@ -1269,7 +1320,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 76.
+(lastpage)             ! on input line 77.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
@@ -1309,7 +1360,7 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 76.
+Package hyperref Info: Link coloring ON on input line 77.
 (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.out)
 (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.out)
 \@outlinefile=\write4
@@ -1318,32 +1369,32 @@ Package hyperref Info: Link coloring ON on input line 76.
 <hcmut.png, id=74, 272.01625pt x 277.035pt>
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 89.
+Package pdftex.def Info: hcmut.png  used on input line 90.
 (pdftex.def)             Requested size: 85.35826pt x 86.93253pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
 
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
 
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 97
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 98
 .
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (18.79199pt too wide) in paragraph at lines 97--110
+Overfull \hbox (18.79199pt too wide) in paragraph at lines 98--111
  [] 
  []
 
 
-Overfull \hbox (8.4217pt too wide) in paragraph at lines 115--120
+Overfull \hbox (8.4217pt too wide) in paragraph at lines 116--121
 [][] 
  []
 
@@ -1360,9 +1411,15 @@ l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+
+LaTeX Warning: Command \' invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \d invalid in math mode on input line 5.
+
 C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Extra }, or
  forgotten $.
-<argument> ... 2\ solution \lambda _1, \lambda _2}
+<argument> ... 2\ nghiệm \lambda _1, \lambda _2}
                                                   \hyper@linkend 
 l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
                                                   %
@@ -1384,6 +1441,8 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
 C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing } i
 nserted.
 <inserted text> 
@@ -1538,67 +1597,35 @@ my insertion and my current dilemma will both disappear.
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 132.
+Package pdftex.def Info: hcmut.png  used on input line 133.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1
-32.
+33.
  (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 132.
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 133.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.132     \newpage
+l.133     \newpage
                    [1]
-Overfull \hbox (20.03374pt too wide) in paragraph at lines 141--167
+Overfull \hbox (20.03374pt too wide) in paragraph at lines 142--168
  [] 
  []
 
-template.tex:194: Missing { inserted.
+template.tex:195: Missing { inserted.
 <to be read again> 
                    \begingroup 
-l.194         \vec{X} = \vec{\eta}e^\(
+l.195         \vec{X} = \vec{\eta}e^\(
                                       \lambda t\)
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
-
-
-template.tex:194: LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.194         \vec{X} = \vec{\eta}e^\(
-                                      \lambda t\)
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-template.tex:194: Missing } inserted.
-<inserted text> 
-                }
-l.194         \vec{X} = \vec{\eta}e^\(\lambda t\)
-                                                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-template.tex:194: Display math should end with $$.
-<to be read again> 
-                    
-l.194         \vec{X} = \vec{\eta}e^\(\lambda t\)
-                                                 
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
 
 
 template.tex:195: LaTeX Error: Bad math environment delimiter.
@@ -1607,17 +1634,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.195     \end{equation*}
-                         
+l.195         \vec{X} = \vec{\eta}e^\(
+                                      \lambda t\)
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-template.tex:195: Missing $ inserted.
+template.tex:195: Missing } inserted.
 <inserted text> 
-                $
-l.195     \end{equation*}
-                         
+                }
+l.195         \vec{X} = \vec{\eta}e^\(\lambda t\)
+                                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1626,82 +1653,76 @@ my insertion and my current dilemma will both disappear.
 
 template.tex:195: Display math should end with $$.
 <to be read again> 
+                    
+l.195         \vec{X} = \vec{\eta}e^\(\lambda t\)
+                                                 
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+template.tex:196: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196     \end{equation*}
+                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+template.tex:196: Missing $ inserted.
+<inserted text> 
+                $
+l.196     \end{equation*}
+                         
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+template.tex:196: Display math should end with $$.
+<to be read again> 
                    \endgroup 
-l.195     \end{equation*}
+l.196     \end{equation*}
                          
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-template.tex:196: Missing $ inserted.
+template.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.196     where \begin{matrix}
-                              \lambda\end{matrix} and \begin{matrix}\vec{\et...
+l.197     ở lây \begin{matrix}
+                                 \lambda\end{matrix} and \begin{matrix}\vec{...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:196: Missing $ inserted.
+template.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.196     where \begin{matrix}\lambda\end{matrix}
-                                                  and \begin{matrix}\vec{\et...
+l.197 ...�� lây \begin{matrix}\lambda\end{matrix}
+                                                   and \begin{matrix}\vec{\e...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-template.tex:196: Missing $ inserted.
+template.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.196 ...ix}\lambda\end{matrix} and \begin{matrix}
-                                                  \vec{\eta}\end{matrix} are...
+l.197 ...ix}\lambda\end{matrix} and \begin{matrix}
+                                                  \vec{\eta}\end{matrix} là...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:196: Missing $ inserted.
+template.tex:197: Missing $ inserted.
 <inserted text> 
                 $
-l.196 ... and \begin{matrix}\vec{\eta}\end{matrix}
-                                                   are eigenvalues and eigen...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-template.tex:208: Missing $ inserted.
-<inserted text> 
-                $
-l.208 ... looking for two solutions \begin{matrix}
-                                                  \vec{X_1}(t)\end{matrix} a...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-template.tex:208: Missing $ inserted.
-<inserted text> 
-                $
-l.208 ...ns \begin{matrix}\vec{X_1}(t)\end{matrix}
-                                                   and \begin{matrix}\vec{X_...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-template.tex:208: Missing $ inserted.
-<inserted text> 
-                $
-l.208 ...ec{X_1}(t)\end{matrix} and \begin{matrix}
-                                                  \vec{X_2}(t)\end{matrix} w...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-template.tex:208: Missing $ inserted.
-<inserted text> 
-                $
-l.208 ...nd \begin{matrix}\vec{X_2}(t)\end{matrix}
-                                                   where the determinant of ...
+l.197 ... and \begin{matrix}\vec{\eta}\end{matrix}
+                                                   là eigenvalues và eigen...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1710,25 +1731,33 @@ my insertion and my current dilemma will both disappear.
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 226.
+Package pdftex.def Info: hcmut.png  used on input line 234.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [2]
 template.tex:236: Missing $ inserted.
 <inserted text> 
                 $
-l.236 ...\ have\ 2\ solution \lambda_1, \lambda_2}
+l.236 ...)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 236.
+
+
+LaTeX Warning: Command \d invalid in math mode on input line 236.
 
 template.tex:236: Missing $ inserted.
 <inserted text> 
                 $
-l.236 ...\ have\ 2\ solution \lambda_1, \lambda_2}
+l.236 ...)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
 
 Package hyperref Warning: bookmark level for unknown subsubsubsection defaults 
 to 0.
@@ -1756,16 +1785,16 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 template.tex:237: Missing $ inserted.
 <inserted text> 
                 $
-l.237     With \begin{matrix}
-                             \lambda_1\end{matrix}, we’ll need to solve,
+l.237     Với \begin{matrix}
+                              \lambda_1\end{matrix}, chúng ta sẽ xử lý...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 template.tex:237: Missing $ inserted.
 <inserted text> 
                 $
-l.237     With \begin{matrix}\lambda_1\end{matrix}
-                                                  , we’ll need to solve,
+l.237 ...Với \begin{matrix}\lambda_1\end{matrix}
+                                                  , chúng ta sẽ xử lý ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1789,15 +1818,15 @@ or  <return>  to continue without it.
 template.tex:271: Missing $ inserted.
 <inserted text> 
                 $
-l.271     and the same with \begin{matrix}
-                                          \lambda_2\end{matrix}
+l.271     tương tự với \begin{matrix}
+                                           \lambda_2\end{matrix}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 template.tex:271: Missing $ inserted.
 <inserted text> 
                 $
-l.271 ... with \begin{matrix}\lambda_2\end{matrix}
+l.271 ...với \begin{matrix}\lambda_2\end{matrix}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1805,18 +1834,56 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-template.tex:328: Missing $ inserted.
+template.tex:297: Missing $ inserted.
 <inserted text> 
                 $
-l.328 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.297         }
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+template.tex:297: Missing $ inserted.
+<inserted text> 
+                $
+l.297         }
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+template.tex:331: Missing $ inserted.
+<inserted text> 
+                $
+l.331         }
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+template.tex:331: Missing $ inserted.
+<inserted text> 
+                $
+l.331         }
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+template.tex:337: Missing $ inserted.
+<inserted text> 
+                $
+l.337 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:328: Missing { inserted.
+template.tex:337: Missing { inserted.
 <to be read again> 
                    \begingroup 
-l.328 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.337 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -1824,22 +1891,22 @@ so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
 
-template.tex:328: LaTeX Error: Bad math environment delimiter.
+template.tex:337: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.328 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.337 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-template.tex:328: Missing } inserted.
+template.tex:337: Missing } inserted.
 <inserted text> 
                 }
-l.328 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.337 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1847,55 +1914,55 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-template.tex:328: Missing $ inserted.
+template.tex:337: Missing $ inserted.
 <inserted text> 
                 $
-l.328 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.337 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:328: Missing $ inserted.
+template.tex:337: Missing $ inserted.
 <inserted text> 
                 $
-l.328 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.337 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 328.
+(hyperref)                removing `\Delta' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lambda' on input line 328.
+(hyperref)                removing `\lambda' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 328.
+(hyperref)                removing `subscript' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 328.
+(hyperref)                removing `math shift' on input line 337.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 328.
+(hyperref)                removing `\pm' on input line 337.
 
-template.tex:330: Missing $ inserted.
+template.tex:339: Missing $ inserted.
 <inserted text> 
                 $
-l.330 ...sing second equation, with \begin{matrix}
-                                                  \lambda =  p + qi\end{matr...
+l.339     Dựa vào (3), với \begin{matrix}
+                                              \lambda =  p + qi\end{matrix} ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:330: Missing $ inserted.
+template.tex:339: Missing $ inserted.
 <inserted text> 
                 $
-l.330 ...egin{matrix}\lambda =  p + qi\end{matrix}
-                                                   (choose negative or posit...
+l.339 ...egin{matrix}\lambda =  p + qi\end{matrix}
+                                                   (chọn 1 nghiệm phúc ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1904,12 +1971,12 @@ my insertion and my current dilemma will both disappear.
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 352.
+Package pdftex.def Info: hcmut.png  used on input line 362.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [3]
-template.tex:361: You can't use `macro parameter character #' in horizontal mod
+template.tex:371: You can't use `macro parameter character #' in horizontal mod
 e.
-l.361 ...h.lamar.edu/Classes/DE/ComplexRoots.aspx#
+l.371 ...h.lamar.edu/Classes/DE/ComplexRoots.aspx#
                                                   EulerFormula),
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1917,23 +1984,23 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-Overfull \hbox (35.5244pt too wide) in paragraph at lines 360--362
-\T5/cmr/m/n/10 Apply Eu-ler's for-mula (https://tutorial.math.lamar.edu/Classes
-/DE/ComplexRoots.aspxEulerFormula), 
+Overfull \hbox (47.38261pt too wide) in paragraph at lines 370--372
+\T5/cmr/m/n/10 �p d�ng c�ng th�c Eu-ler (https://tutorial.math.lamar.edu/Classe
+s/DE/ComplexRoots.aspxEulerFormula), 
  []
 
-template.tex:371: Missing $ inserted.
+template.tex:381: Missing $ inserted.
 <inserted text> 
                 $
-l.371     Withdraw \begin{matrix}
-                                 \eta_2\end{matrix},
+l.381     Rút gọn \begin{matrix}
+                                   \eta_2\end{matrix},
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:371: Missing $ inserted.
+template.tex:381: Missing $ inserted.
 <inserted text> 
                 $
-l.371 ...Withdraw \begin{matrix}\eta_2\end{matrix}
+l.381 ...�t gọn \begin{matrix}\eta_2\end{matrix}
                                                   ,
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1943,31 +2010,47 @@ my insertion and my current dilemma will both disappear.
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 453.
+Package pdftex.def Info: hcmut.png  used on input line 480.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [4]
-template.tex:489: Missing $ inserted.
+template.tex:500: Missing $ inserted.
 <inserted text> 
                 $
-l.489     }
+l.500     }
            
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:489: You can't use `\eqno' in math mode.
+template.tex:500: Missing $ inserted.
+<inserted text> 
+                $
+l.500     }
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+template.tex:500: Missing $ inserted.
+<inserted text> 
+                $
+l.500     }
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+template.tex:500: You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.489     }
+l.500     }
            
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-template.tex:489: Missing $ inserted.
+template.tex:500: Missing $ inserted.
 <inserted text> 
                 $
-l.489     }
+l.500     }
            
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1976,27 +2059,27 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--493
+Underfull \hbox (badness 10000) in paragraph at lines 480--504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--493
+Underfull \hbox (badness 10000) in paragraph at lines 480--504
 
  []
 
-template.tex:513: Missing $ inserted.
+template.tex:534: Missing $ inserted.
 <inserted text> 
                 $
-l.513         }
+l.534         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:513: Missing $ inserted.
+template.tex:534: Missing $ inserted.
 <inserted text> 
                 $
-l.513         }
+l.534         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2004,134 +2087,63 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-
-template.tex:513: Package amsmath Error: \vec allowed only in math mode.
-
-See the amsmath package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.513         }
-               
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-template.tex:513: Missing $ inserted.
+template.tex:544: Missing $ inserted.
 <inserted text> 
                 $
-l.513         }
-               
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-template.tex:513: Extra }, or forgotten $.
-<argument> ...\end {pmatrix} = \vec {X}(0) = {C_1}
-                                                   \begin {pmatrix} \dfrac {...
-l.513         }
-               
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-template.tex:513: Extra }, or forgotten $.
-\fbox  ...x {\color@begingroup \kern \fboxsep {#1}
-                                                  \kern \fboxsep \color@endg...
-l.513         }
-               
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-template.tex:513: Missing $ inserted.
-<inserted text> 
-                $
-l.513         }
-               
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-template.tex:513: Missing } inserted.
-<inserted text> 
-                }
-l.513         }
-               
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-template.tex:513: Missing } inserted.
-<inserted text> 
-                }
-l.513         }
-               
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-template.tex:524: Missing $ inserted.
-<inserted text> 
-                $
-l.524 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
+l.544 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:524: Missing $ inserted.
+template.tex:544: Missing $ inserted.
 <inserted text> 
                 $
-l.524 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
+l.544 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 524.
+(hyperref)                removing `\Delta' on input line 544.
 
-template.tex:534: Missing $ inserted.
-<inserted text> 
-                $
-l.534     \begin{matrix}
-                        \lambda\end{matrix}.
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-template.tex:534: Missing $ inserted.
-<inserted text> 
-                $
-l.534     \begin{matrix}\lambda\end{matrix}
-                                           .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+Underfull \hbox (badness 10000) in paragraph at lines 545--552
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--577
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--584
+
+ []
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 601.
+Package pdftex.def Info: hcmut.png  used on input line 641.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [5]
-template.tex:709: Missing $ inserted.
+template.tex:715: Missing $ inserted.
 <inserted text> 
                 $
-l.709         }
+l.715         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:709: Extra }, or forgotten $.
+template.tex:715: Extra }, or forgotten $.
 \fbox  ...x {\color@begingroup \kern \fboxsep {#1}
                                                   \kern \fboxsep \color@endg...
-l.709         }
+l.715         }
                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2139,18 +2151,18 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-template.tex:709: Missing $ inserted.
+template.tex:715: Missing $ inserted.
 <inserted text> 
                 $
-l.709         }
+l.715         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:709: Missing } inserted.
+template.tex:715: Missing } inserted.
 <inserted text> 
                 }
-l.709         }
+l.715         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2158,18 +2170,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-template.tex:741: Missing $ inserted.
+template.tex:747: Missing $ inserted.
 <inserted text> 
                 $
-l.741         }
+l.747         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:741: Extra }, or forgotten $.
+template.tex:747: Extra }, or forgotten $.
 \fbox  ...x {\color@begingroup \kern \fboxsep {#1}
                                                   \kern \fboxsep \color@endg...
-l.741         }
+l.747         }
                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2177,51 +2189,71 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-template.tex:741: Missing $ inserted.
+template.tex:747: Missing $ inserted.
 <inserted text> 
                 $
-l.741         }
+l.747         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-template.tex:741: Missing } inserted.
+template.tex:747: Missing } inserted.
 <inserted text> 
                 }
-l.741         }
+l.747         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
+
+template.tex:749: Undefined control sequence.
+<recently read> \lamba 
+                       
+l.749     Với $\lamba
+                       _1, \lamba_2$ tính từ (7), và $\rho_1, \rho_2$ đ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+template.tex:749: Undefined control sequence.
+l.749     Với $\lamba_1, \lamba
+                                 _2$ tính từ (7), và $\rho_1, \rho_2$ đ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 745.
+(hyperref)                than one, level fixed on input line 751.
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 759.
+Package pdftex.def Info: hcmut.png  used on input line 765.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [6] 
 AED: lastpage setting LastPage
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 791.
+Package pdftex.def Info: hcmut.png  used on input line 797.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [7] (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 18C144A2D6C6194D4F4CEFB524008B63;2696.
+(rerunfilecheck)             Checksum: 2F642FE98A159FEEC6ED9F508A59A34A;2698.
  ) 
 Here is how much of TeX's memory you used:
- 26783 strings out of 478338
- 512010 string characters out of 2837172
- 782442 words of memory out of 3000000
- 44659 multiletter control sequences out of 15000+600000
+ 27684 strings out of 478338
+ 529302 string characters out of 2837172
+ 806424 words of memory out of 3000000
+ 45544 multiletter control sequences out of 15000+600000
  482976 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,25n,89p,433b,466s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,25n,89p,433b,468s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\binh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmex10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -2239,9 +2271,9 @@ ata/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/binh/AppData
 /Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/binh/AppData/
 Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
 Output written on C:/Users\binh\Documents\GitHub\Latex-Template\out\template.pd
-f (8 pages, 211596 bytes).
+f (8 pages, 213878 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 244 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
  154 words of extra memory for PDF output out of 10000 (max. 10000000)
 

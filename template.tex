@@ -12,6 +12,7 @@
 \usepackage{rotating}
 \usepackage{graphics}
 \usepackage[utf8]{vietnam}
+\usepackage{empheq}
 \usepackage{geometry}
 \usepackage{setspace}
 \usepackage{tikz}
@@ -177,7 +178,7 @@
     complete Tab. 2 for all possible cases of eigenvalues of general 2 × 2 matrix A
 
     \subsubsection{Method of solving system of differential equations}
-    Consider system:
+    Xét hệ:
     \begin{equation}
         \systeme{
             R' = aR + bJ,
@@ -185,33 +186,31 @@
             R(0) = R_0 \, J(0)=J_0
         }\label{eq:equation2}
     \end{equation}
-    written in vector form
+    dược viết dưới dạng vector
     \begin{equation*}
         \vec{x'} = A\vec{X}
     \end{equation*}
-    will have solution form
+    sẽ có công thức nghiệm là
     \begin{equation*}
         \vec{X} = \vec{\eta}e^\(\lambda t\)
     \end{equation*}
-    where \begin{matrix}\lambda\end{matrix} and \begin{matrix}\vec{\eta}\end{matrix} are eigenvalues and eigenvectors of the matrix A
-    , and
+    ở lây \begin{matrix}\lambda\end{matrix} and \begin{matrix}\vec{\eta}\end{matrix} là eigenvalues và eigenvectors của , ma trận A
+    , và
     \begin{equation*}
         \vec{x'}=\begin{pmatrix}
             a & b \\
             c & d \\
+        \end{pmatrix};
+        \vec{X}(t)=\begin{pmatrix}
+             R(t) \\
+             J(t) \\
         \end{pmatrix};
         \vec{X}(0)=\begin{pmatrix}
              R_0 \\
              J_0 \\
         \end{pmatrix}
     \end{equation*}
-    We are going to be looking for two solutions \begin{matrix}\vec{X_1}(t)\end{matrix} and \begin{matrix}\vec{X_2}(t)\end{matrix} where the determinant of the matrix
-    \begin{equation*}
-        X = \begin{pmatrix}
-            \vec{X_1} &  \vec{X_2} \\
-        \end{pmatrix}
-    \end{equation*}
-    So, the first thing that we need to do is find the eigenvalues for the matrix.
+    Đầu tiên, chúng ta tìm eigenvalues của ma trận A.
     \begin{equation*}
         det(A - \lambda I)
         =
@@ -220,21 +219,22 @@
             c         & d-\lambda \\
         \end{vmatrix} = 0
     \end{equation*}
-    simplifying to
+    triển khai và rút gọn,
     \begin{equation*}
         \lambda^2 - (a+d)\lambda + ad - bc = 0
     \end{equation*}
-    we have
+    tính delta,
     \begin{equation*}
         \Delta = [-(a+d)]^2 - 4(ad - bc)
     \end{equation*}
-    general solution in this case will be
+    dạng chung của nghiệm sẽ là
     \begin{equation}
-        \vec{X}(t) = {C_1}e^{\lambda_1 t}\vec{\eta}^{(1)} + {C_2}e^{\lambda_2 t}\vec{\eta}^{(2)} \label{eq:equation}
+        \vec{X}(t)
+            = C_1 X_1 + C_2 X_2 \label{eq:equation}
     \end{equation}
 
-    \subsubsubsection{\Delta > 0,\ Real\ Eigenvalues,\ (4)\ have\ 2\ solution \lambda_1, \lambda_2}
-    With \begin{matrix}\lambda_1\end{matrix}, we’ll need to solve,
+    \subsubsubsection{\Delta > 0,\ (Real\ Eigenvalues),\ (4)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
+    Với \begin{matrix}\lambda_1\end{matrix}, chúng ta sẽ xử lý như sau,
     \begin{equation}
         \begin{pmatrix}
             a-\lambda_1 & b         \\
@@ -259,7 +259,7 @@
             =\dfrac{-b}{a-\lambda_1}\eta_2\label{eq:equation3}
             =\dfrac{d - \lambda_1}{-c}\eta_2\label{eq:equation3'}
     \end{equation}
-    The eigenvector in this case is,
+    eigenvector trong trường hợp này sẽ là,
     \begin{equation}
         \vec{\eta^{(1)}}=
         \begin{pmatrix}
@@ -268,7 +268,7 @@
         \end{pmatrix}
         , \eta_2\ \in\ R\label{eq:equation9}
     \end{equation}
-    and the same with \begin{matrix}\lambda_2\end{matrix}
+    tương tự với \begin{matrix}\lambda_2\end{matrix}
     \begin{equation*}
         \vec{\eta^{(2)}}=
         \begin{pmatrix}
@@ -277,23 +277,26 @@
         \end{pmatrix}
         , \eta_2'\ \in\ R
     \end{equation*}
-    \begin{equation*}
-        \Leftrightarrow
-        \vec{X}(t) =
-            {C_1}e^{\lambda_1 t}
-                        \begin{pmatrix}
-                            \dfrac{-b}{a-\lambda_1}\eta_2 \\
-                            \eta_2 \\
-                        \end{pmatrix}
-            +
-            {C_2}e^{\lambda_2 t}
-                        \begin{pmatrix}
-                            \dfrac{-b}{a-\lambda_2}\eta_2' \\
-                            \eta_2' \\
-                        \end{pmatrix}
-    \end{equation*}
-    Now, we need to find the constants.
-    To do this we simply need to apply the initial conditions.
+    \begin{center}
+        \fbox {
+            \begin{equation*}
+                \Leftrightarrow
+                \vec{X}(t) =
+                    {C_1}e^{\lambda_1 t}
+                                \begin{pmatrix}
+                                    \dfrac{-b}{a-\lambda_1}\eta_2 \\
+                                    \eta_2 \\
+                                \end{pmatrix}
+                    +
+                    {C_2}e^{\lambda_2 t}
+                                \begin{pmatrix}
+                                    \dfrac{-b}{a-\lambda_2}\eta_2' \\
+                                    \eta_2' \\
+                                \end{pmatrix}
+            \end{equation*}
+        }
+    \end{center}
+    Tìm các hằng số $C_1, C_2$ với điều kiện khởi tạo $R_0, J_0$
     \begin{equation*}
         \begin{pmatrix}
             R_0 \\
@@ -314,24 +317,31 @@
                 \eta_2' \\
             \end{pmatrix}
     \end{equation*}
-    All we need to do now is multiply the constants through and we then get two equations (one for each row) that we can solve for the constants. This gives C1, and C2.
-    \begin{equation*}
-        \left.
-        \begin{array}{ll}
-            \dfrac{-b}{a-\lambda_1}\eta_2 C_1 + \dfrac{-b}{a-\lambda_2}\eta_2' C_2 = R_0\\
-            \eta_2 C1 + \eta_2' C2 = J_0
-        \end{array}
-        \right \} \Rightarrow C1, C2
-    \end{equation*}
+    Nhân các hệ số với nhau, ta sẽ có hệ phương trình với biến cần tìm là $C_1, C_2$
+    \begin{center}
+        \fbox {
+            \begin{equation*}
+                \left.
+                \begin{array}{ll}
+                    \dfrac{-b}{a-\lambda_1}\eta_2 C_1 + \dfrac{-b}{a-\lambda_2}\eta_2' C_2 = R_0\\
+                    \eta_2 C1 + \eta_2' C2 = J_0
+                \end{array}
+                \right \} \Rightarrow C1, C2
+            \end{equation*}
+        }
+        , với $\eta_2 \in R$ tuỳ ý
+        , $\lambda_1, \lambda_2$ là eigenvalues
+    \end{center}
 
 
     \subsubsubsection{\Delta < 0,\ Complex\ Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
 
-    Following (3) using second equation, with \begin{matrix}\lambda =  p + qi\end{matrix} (choose negative or positive, in this case I choose positive.), we have
+    Dựa vào (3), với \begin{matrix}\lambda =  p + qi\end{matrix} (chọn 1 nghiệm phúc với dấu âm hoặc dương , trong trường hợp này em/tôi chọn nghiệm phức dương.),
+    chúng ta có
     \begin{equation}
         \eta_1=\dfrac{-b}{a - (p + qi)}\eta_2=\dfrac{d - (p + qi)}{c}\eta_2\label{eq:equation4}
     \end{equation}
-    So, the first eigenvector is,
+    eigenvector đầu tiên là,
     \begin{equation*}
         \vec{\eta^{(1)}}=
         \begin{pmatrix}
@@ -340,7 +350,7 @@
         \end{pmatrix}
         , \eta_2\ \in\ R
     \end{equation*}
-    The solution corresponding to this eigenvalue and eigenvector is
+    Dựa vào công thức nghiệm ở phía trên, $\vec{X_1}$ là
     \begin{equation*}
         \vec{X_1}(t)=
         e^{(p + qi)t}
@@ -358,7 +368,7 @@
             \eta_2 \\
         \end{pmatrix}
     \end{equation*}
-    Apply Euler’s formula (https://tutorial.math.lamar.edu/Classes/DE/ComplexRoots.aspx#EulerFormula),
+    Áp dụng công thức Euler (https://tutorial.math.lamar.edu/Classes/DE/ComplexRoots.aspx#EulerFormula),
     \begin{equation*}
         \vec{X_1}(t)=
         e^{pt}
@@ -368,7 +378,7 @@
             \eta_2 \\
         \end{pmatrix}
     \end{equation*}
-    Withdraw \begin{matrix}\eta_2\end{matrix},
+    Rút gọn \begin{matrix}\eta_2\end{matrix},
     \begin{equation*}
         \vec{X_1}(t)=
         e^{pt}\eta_2
@@ -378,7 +388,7 @@
             1 \\
         \end{pmatrix}
     \end{equation*}
-    Transformation steps,
+    Các bước biến đổi,
     \begin{equation*}
         \vec{X_1}(t)=
         e^{pt}\eta_2
@@ -468,10 +478,10 @@
     \begin{equation*}
         \vec{X_1}(t)=\vec{u}(t) + i\vec{v}(t)
     \end{equation*}
-    The general solution to this system then,
+    Vậy công thức nghiệm chung trong trường hợp $\Delta < 0$ sẽ là
     \newline
     \newline
-    \fbox {
+    \framebox {
         \begin{equation}
             \vec{X_1}(t)=
                 C_1 e^{pt}
@@ -490,80 +500,92 @@
     }
     \newline
     \newline
-    Now apply the initial condition and find the constants.
+    Áp dụng điều kiện khỡi tạo để tìm các hằng số $C_1, C_2$.
     \begin{equation*}
-        \fbox {
+        \begin{pmatrix}
+            R_0 \\
+            J_0 \\
+        \end{pmatrix}
+        =
+        \vec{X}(0)
+        =
+            {C_1}
             \begin{pmatrix}
-                R_0 \\
-                J_0 \\
+                \dfrac{\eta_2 (d - p)}{-c} \\
+                \eta_2 \\
             \end{pmatrix}
-            =
-            \vec{X}(0)
-            =
-                {C_1}
-                \begin{pmatrix}
-                    \dfrac{\eta_2 (d - p)}{-c} \\
-                    \eta_2 \\
-                \end{pmatrix}
-            +
-                {C_2}
-                \begin{pmatrix}
-                    \dfrac{\eta_2 (-q)}{-c}\eta_2 \\
-                    0 \\
-                \end{pmatrix}
+        +
+            {C_2}
+            \begin{pmatrix}
+                \dfrac{\eta_2 (-q)}{-c}\eta_2 \\
+                0 \\
+            \end{pmatrix}
+    \end{equation*}
+    \begin{center}
+        \fbox {
+            \begin{equation*}
+                \left.
+                \begin{array}{ll}
+                    \dfrac{\eta_2 (d - p)}{-c} C_1 + \dfrac{\eta_2 (-q)}{-c}\eta_2 C_2 = R_0\\
+                    \eta_2 C1 = J_0
+                \end{array}
+                \right \} \Rightarrow C1, C2
+            \end{equation*}
         }
-    \end{equation*}
-    \begin{equation*}
-        \left.
-        \begin{array}{ll}
-            \dfrac{\eta_2 (d - p)}{-c} C_1 + \dfrac{\eta_2 (-q)}{-c}\eta_2 C_2 = R_0\\
-            \eta_2 C1 = J_0
-        \end{array}
-        \right \} \Rightarrow C1, C2
-    \end{equation*}
+    \end{center}
+    \begin{center}
+        Với
+        $\eta_1, \eta_2$ tính từ (5),
+        p là $Re(\lambda_1)$,
+        q là $Im(\lambda_1)$.
+    \end{center}
+
 
     \subsubsubsection{\Delta = 0,\ Repeated\ Eigenvalues}
-    This is the final case that we need to take a look at.
-    In this section we are going to look at solutions to the system,
-    \begin{equation*}
-        \vec{x'} = A\vec{X}
-    \end{equation*}
-    where the eigenvalues are repeated eigenvalues.
-    Since we are going to be working with systems in which
-    A is a 2×2 matrix we will make that assumption from the start.
-    So, the system will have a double eigenvalue,
-    \begin{matrix}\lambda\end{matrix}.
-
-    This presents us with a problem.
-    We want two linearly independent solutions so that we can form a general solution.
-    However, with a double eigenvalue we will have only one.
-    Following \href{https://tutorial.math.lamar.edu/Classes/DE/RepeatedEigenvalues.aspx}{this article}, I have find form to find solution fo this case.
-    First solution is,
+    Mô tả vấn đề.
+    Chúng ta mong muốn có 2 nghiệm phân biệt, không phụ thuộc nhau để tạo thành một nghiệm chung
+    Tuy nhiên, trong trường hợp này, eigenvalues là nghiệm kép.
+    Thep \href{https://tutorial.math.lamar.edu/Classes/DE/RepeatedEigenvalues.aspx}{bài viết này}, em tìm được cách giải quyết như sau.
+    \newline
+    \newline
+    Nghiệm đầu tiên, chúng ta sẽ làm tương tự như trường hợp $\Delta > 0$,
     \begin{equation}
-        \vec{X_1} = \vec{\eta}e^{\lambda t} =
+        \vec{X_1} = \vec{\eta} e^{\lambda t} =
+        \begin{pmatrix}
+            \eta_1 \\
+            \eta_2 \\
+        \end{pmatrix}
+        e^{\lambda t}
+        =
         \begin{pmatrix}
             \dfrac{-b}{a-\lambda_1}\eta_2 \\
             \eta_2 \\
         \end{pmatrix}
+        e^{\lambda t}
         =
         \begin{pmatrix}
             \dfrac{d - \lambda_1}{-c}\eta_2 \\
             \eta_2 \\
         \end{pmatrix}
+        e^{\lambda t}
         , (\forall \eta_2 \in R), because (3), (4)\label{eq:equation8}
     \end{equation}
-    And second solution will be
+    sau khi tính được $\eta$, ta sẽ sử dụng $\eta$ để tính nghiệm 2.
+    \newline
+    \newline
+    Nghiệm thứ hai,
     \begin{equation}
         \vec{X_2} = t e^{\lambda t} \vec{\eta} + e^{\lambda t}\vec{\rho}\label{eq:equation6}
     \end{equation}
-    will be a solution to the system provided $\vec{\rho}$ is a solution to
-    \begin{equation}
-        (A - \lambda I) \vec{\rho} = \vec{\eta}\label{eq:equation7}
-    \end{equation}
-    Transform (9),
+    \newline
+    \newline
+    \newline
+    với $\vec{\rho}$ sẽ thoả
     \begin{equation*}
-        (9)
-        \Rightarrow
+        (A - \lambda I) \vec{\rho} = \vec{\eta}
+    \end{equation*}
+    \begin{equation*}
+        \Leftrightarrow
         \begin{pmatrix}
             a-\lambda_1 & b         \\
             c         & d-\lambda_1 \\
@@ -617,20 +639,31 @@
             \eta_2 \\
         \end{pmatrix}
     \end{equation*}
-    \begin{equation*}
+    Suy ra cong thức $\rho_1$ dựa vào $\rho_2 \in R$ tuỳ ý
+    \begin{equation}
         \Rightarrow
         \rho_1
             = (\dfrac{\dfrac{-b}{a - \lambda_1}\eta_2 - b \rho_2}{a - \lambda_1})
-            = (\dfrac{\dfrac{d - \lambda_1}{-c}\eta_2 -b \rho_2}{a - \lambda_1})
-            , and \rho_2 \in R
-    \end{equation*}
+            , and \rho_2 \in R\label{eq:equation7}
+    \end{equation}
     hoặc
-    \begin{equation*}
+    \begin{equation}
+        \rho_1
+            = (\dfrac{\dfrac{d - \lambda_1}{-c}\eta_2 -b \rho_2}{a - \lambda_1})
+            , and \rho_2 \in R\label{eq:equation10}
+    \end{equation}
+    hoặc
+    \begin{equation}
         \rho_1
             = (\dfrac{\dfrac{-b}{a - \lambda_1}\eta_2 -(d - \lambda_1) \rho_2}{c})
+            , and \rho_2 \in R\label{eq:equation11}
+    \end{equation}
+    hoặc
+    \begin{equation}
+        \rho_1
             = (\dfrac{\dfrac{d - \lambda_1}{-c}\eta_2 -(d - \lambda_1) \rho_2}{c})
-            , and \rho_2 \in R
-    \end{equation*}
+            , and \rho_2 \in R\label{eq:equation12}
+    \end{equation}
 
     Công thức nghiệm $\vec{X}$ của hệ sẽ là
     \begin{equation*}
@@ -642,39 +675,11 @@
     \end{equation*}
     \begin{equation*}
         \Leftrightarrow
-        \begin{pmatrix}
-            R \\
-            J \\
-        \end{pmatrix}
-        =
+        \vec{X} =
         C_1
         \begin{pmatrix}
             \eta_1 \\
             \eta_2 \\
-        \end{pmatrix}
-        e^{\lambda t}
-        +
-        C_2(
-            t e^{\lambda t}
-            \begin{pmatrix}
-                \eta_1 \\
-                \eta_2 \\
-            \end{pmatrix}
-            +
-            e^{\lambda t}
-            \begin{pmatrix}
-                \rho_1 \\
-                \rho_2 \\
-            \end{pmatrix}
-        )
-    \end{equation*}
-    \begin{equation*}
-        \Leftrightarrow
-        \vec{X} =
-        C_1
-        \begin{pmatrix}
-                \eta_1 \\
-                \eta_2 \\
         \end{pmatrix}
         e^{\lambda t}
         +
@@ -709,7 +714,7 @@
                 \end{pmatrix}
         }
     \end{equation*}
-    Now apply the initial condition and find the constants.
+    Áp dụng điều kiện khỡi tạo để tìm các hằng số $C_1, C_2$.
     \begin{equation*}
         \Leftrightarrow
         \begin{pmatrix}
@@ -741,7 +746,7 @@
             \right \} \Rightarrow C1, C2
         }
     \end{equation*}
-
+    Với $\lamba_1, \lamba_2$ tính từ (7), và $\rho_1, \rho_2$ được tính từ (9) hoặc (10) hoặc (11)  hoặc (12).
 
     \subsection{Problem 2}
     ...
