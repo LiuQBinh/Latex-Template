@@ -317,9 +317,9 @@
     $
     (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡t \\
     \Longleftrightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡t\\
-    \Longleftrightarrow
     $
     \begin{equation}
+        \Longleftrightarrow
         \systeme{
             A + 3B = 4,
             -3A + B = 8
@@ -332,4 +332,241 @@
             B = 2
         }\label{eq:equation2}
     \end{equation}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+    \textbf{Ví dụ 3:}
+
+    \begin{equation}
+        \systeme{
+            R^'=4R-3J+sin⁡t         (1),
+            J^'=2R-J-2 cos⁡t    (2),
+            R(0)=0,
+            J(0)=2
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    $
+    (2) \Rightarrow 2R=J'+J+2 cost \\
+    \Rightarrow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡t         (3) \\
+    \Rightarrow R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡t\\
+    $
+
+    Thế vào (1) ta được: \\
+
+    $
+    \frac{1}{2} J''+ \frac{1}{2} J'- sint = 4.(\frac{1}{2}J'+\frac{1}{2}J+ cost) - 3J + sint \\
+    \Longleftrightarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡t\\
+    \Longleftrightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡t         (4) \\
+    $
+
+    Phương trình đặc trưng: \\
+    $
+    k^2-3k+2=0
+    \Longleftrightarrow \(\left[ \begin{array}{l}
+                                     k=1\\k=2
+    \end{array} \right.\ \\
+    \Rightarrow J_C = C_1.e^t + C_2.e^2t \\
+    $
+
+    Ta có: \\
+    $4sint+8cost=e^{0t}.(4sint+8cost)$ \\
+    $\Rightarrow \alpha \pm i\beta = \pm i$ không là nghiệm của phương trình đặc trưng. \\
+    Suy ra, nghiệm riêng của (4) có dạng: \\
+    $
+    J_P=A.sin⁡t+B.cos⁡t \\
+    \Rightarrow J_P'=A cos⁡t-B sin⁡t\\
+    \Rightarrow J_P''=-A sin⁡t-B cos⁡t \\
+    $
+
+    Thế vào (4) ta được: \\
+
+    $
+    (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡t \\
+    \Longleftrightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡t\\
+    $
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            A + 3B = 4,
+            -3A + B = 8
+        }\label{eq:equation2}
+    \end{equation} \\
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            A = -2,
+            B = 2
+        }\label{eq:equation2}
+    \end{equation} \\
+    $
+    \Rightarrow J_p=-2 sin⁡t+2 cos⁡t \\
+    \Rightarrow J=C_1.e^t+C_2.e^{2t}-2 sin⁡t+2 cos⁡t\\
+    \Rightarrow J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡t-2 sin⁡t\\
+    $
+
+    Thế vào (3) ta được: \\
+
+    $
+    R = \frac{1}{2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡t )+cos⁡t \\
+    \Rightarrow R=C_1.e^t+ \frac{3}{2} C_2.e^2t-2 sin⁡t+cos⁡t \\
+    $
+
+    Ta có: \\
+    \begin{equation}
+        \systeme{
+            R(0) = 0,
+            J(0) = 2
+        }\label{eq:equation2}
+    \end{equation} \\
+    \begin{equation}
+        \Rightarrow
+        \systeme{
+            C_1 + \frac{3}{2}C_2 + 1 = 0,
+            C_1 + C_2 + 2 = 2
+        }\label{eq:equation2}
+    \end{equation} \\
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            C_1 + \frac{3}{2}C_2 = -1,
+            C_1 + C_2 = 0
+        }\label{eq:equation2}
+    \end{equation} \\
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            C_1 = 2,
+            C_2 = -2
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    Vậy nghiệm của hệ phương trình: \\
+
+    \begin{equation}
+        \systeme{
+            R=2.e^t-3C_2.e^{2t}-2 sin⁡t+cos⁡t,
+            J=2.e^t-2.e^{2t}-2 sin⁡t+2 cos⁡t
+        }\label{eq:equation2}
+    \end{equation} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \textbf{Ví dụ 4:}
+
+    \begin{equation}
+        \systeme{
+            R^'=2R+6J-cos⁡t         (1),
+            J^'=R+3J+sin⁡t         (2),
+            R(0)=0,
+            J(0)=2
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    $
+    (2) \Rightarrow R=J'-3J-sin⁡t         (3) \\
+    \Rightarrow R'=J''-3J'-cos⁡t\\
+    $
+
+    Thế vào (1) ta được: \\
+
+    $
+    J''-3J'-cos⁡t=2(J'-3J-sint)+6J-cost\\
+    \Longleftrightarrow J''-3J'-cos⁡t=2J'-6J-2 sin⁡t+6J-cos⁡t\\
+    \Longleftrightarrow J''-5J'=-2 sin⁡t         (4) \\
+    $
+
+    Phương trình đặc trưng: \\
+
+    $
+    k^2-5k=0 \\
+    \Longleftrightarrow \(\left[ \begin{array}{l}
+                                     k=0\\k=5
+    \end{array} \right.\
+    \Rightarrow J_C = C_1 + C_2.e^{5t} \\
+    $
+
+    Ta có: \\
+
+    $
+    -2sint = e^{0t}.(-2sint+0cost)\\
+    \Rightarrow \alpha \pm i\beta = \pm i$ không là nghiệm của phương trình đặc trưng. \\
+
+    Suy ra, nghiệm riêng của (4) có dạng: \\
+
+    $
+    J_p = A.sint+B.cost \\
+    \Rightarrow J'_P = Acost - Bsint \\
+    \Rightarrow J''_P = -Asint - Bcost \\
+    $
+
+    Thế vào (4) ta được:\\
+
+    $
+    (-A+5B)sint+(-B-5A)cost=-2sint \\
+    $\Longleftrightarrow$
+    \begin{equation}
+        \systeme{
+            -A+5B=-2,
+            -5A-B=0
+        }\label{eq:equation2}
+    \end{equation} \\
+    $\Longleftrightarrow$
+    \begin{equation}
+        \systeme{
+            A = \frac{1}{13},
+            B = -\frac{5}{13}
+        }\label{eq:equation2}
+    \end{equation} \\
+    \Rightarrow J-P = \frac{1}{13}sint - \frac{5}{13}cost \\
+    \Rightarrow J = C_1 + C_2.e^{5t} + \frac{1}{13} - \frac{5}{13}cost \\
+    \Rightarrow J' = 5C_2.e^{5t} + \frac{1}{13}cost + \frac{5}{13}sint \\
+    $
+
+    Thế vào (3) ta được: \\
+    $
+    R = 5C_2.e^{5t}+\frac{1}{13}cost+\frac{5}{13}sint-3(C_1+C_2.e^{5t}+\frac{1}{13}sint - \frac{5}{13}cost)-sint \\
+    \Rightarrow R = -3C_1 + 2C_2.e^{5t}-\frac{11}{13}sint + \frac{16}{13}cost \\
+    $
+
+    Ta có: \\
+
+    \begin{equation}
+        \systeme{
+            R(0) = 2,
+            J(0) = 0
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    \begin{equation}
+        \Rightarrow
+        \systeme{
+            -3C_1 + 2C_2 + \frac{16}{13} = 2,
+            C_1 + C_2 - \frac{5}{13} = 0
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    $\Longleftrightarrow$
+    \begin{equation}
+        \systeme{
+            -3C_1+2C_2=\frac{10}{13},
+            C_1 + C_2 = \frac{5}{13}
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    $\Longleftrightarrow$
+    \begin{equation}
+        \systeme{
+            C_1 = 0,
+            C_2 = \frac{5}{13}
+        }\label{eq:equation2}
+    \end{equation} \\
+
+    Vậy nghiệm của hệ phương trình: \\
+    \begin{equation}
+        \systeme{
+            R=\frac{10}{13}.e^{5t}-\frac{11}{13}sint+\frac{16}{13}cost,
+            J=\frac{5}{13}.e^{5t}+\frac{1}{13}sint-\frac{5}{13}cost
+        }\label{eq:equation2}
+    \end{equation} \\
 \end{document}

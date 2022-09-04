@@ -22,7 +22,10 @@
 \usepackage{amsmath}
 \usepackage{tcolorbox}
 %\usepackage{pstcol} 								% PSTricks with the standard color package
+\usepackage{chngcntr}
 
+\counterwithin*{equation}{section}
+\counterwithin*{equation}{subsection}
 \newtheorem{theorem}{{\bf Theorem}}
 \newtheorem{property}{{\bf Property}}
 \newtheorem{proposition}{{\bf Proposition}}
@@ -146,19 +149,17 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-    \section{Relation \& Counting}
-
-    \subsection{Problem 1}\label{subsec:problem-1}
+    \section{Problem 1}\label{subsec:problem-1}
     \import{./}{p1.tex}
 
-    \subsection{Problem 2}\label{subsec:problem-2}
+    \section{Problem 2}\label{subsec:problem-2}
 %    \import{./}{p2.tex}
     wdwdwd
 
-    \subsection{Problem 3}\label{subsec:problem-3}
+    \section{Problem 3}\label{subsec:problem-3}
     \import{./}{p3.tex}
 
-    \subsection{Problem 4}\label{subsec:problem-4}
+    \section{Problem 4}\label{subsec:problem-4}
 %    \import{./}{p4.tex}
     wdwdwd
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  5 SEP 2022 00:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  5 SEP 2022 01:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1254,6 +1254,11 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box129
 \tcb@temp=\box130
 )
+(C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
 \c@theorem=\count333
 \c@property=\count334
 \c@proposition=\count335
@@ -1302,29 +1307,77 @@ LaTeX Warning: Label `eq:equation2' multiply defined.
 
 LaTeX Warning: Label `eq:equation2' multiply defined.
 
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
+
+LaTeX Warning: Label `eq:equation2' multiply defined.
+
 )
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
  (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.sta)
 \openout3 = `template.sta'.
 
@@ -1356,62 +1409,62 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 76.
+(lastpage)             ! on input line 79.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 76.
+Package hyperref Info: Link coloring ON on input line 79.
  (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.out)
 (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.out)
 \@outlinefile=\write5
 \openout5 = `template.out'.
 
-<hcmut.png, id=46, 272.01625pt x 277.035pt>
+<hcmut.png, id=50, 272.01625pt x 277.035pt>
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 86.
+Package pdftex.def Info: hcmut.png  used on input line 89.
 (pdftex.def)             Requested size: 85.35826pt x 86.93253pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 91.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 94.
 
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 91.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 94.
 
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 91
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 94
 .
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 
-template.tex:107: LaTeX Error: Unicode character ̃ (U+0303)
+template.tex:110: LaTeX Error: Unicode character ̃ (U+0303)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.107                 & Students: & Nguyễ
+l.110                 & Students: & Nguyễ
                                             n Thị Thanh Uyên - 2133187. \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-template.tex:107: LaTeX Error: Unicode character ̣ (U+0323)
+template.tex:110: LaTeX Error: Unicode character ̣ (U+0323)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.107 ...            & Students: & Nguyễn Thị
+l.110 ...            & Students: & Nguyễn Thị
                                                    Thanh Uyên - 2133187. \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1420,26 +1473,26 @@ You may provide a definition with
 
 {C:/Users/binh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./hcmut.png>]
  (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:4: Missing $ i
 nserted.
 <inserted text> 
                 $
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+l.4 ...1, \lambda _2}{3}{subsubsubsection.2.0.1.1}
                                                   %
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 5.
+LaTeX Warning: Command \' invalid in math mode on input line 4.
 
 
-LaTeX Warning: Command \d invalid in math mode on input line 5.
+LaTeX Warning: Command \d invalid in math mode on input line 4.
 
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Extra }, or
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:4: Extra }, or
  forgotten $.
 <argument> ... 2\ nghiệm \lambda _1, \lambda _2}
                                                   \hyper@linkend 
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+l.4 ...1, \lambda _2}{3}{subsubsubsection.2.0.1.1}
                                                   %
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1447,11 +1500,11 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:4: Missing $ i
 nserted.
 <inserted text> 
                 $
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+l.4 ...1, \lambda _2}{3}{subsubsubsection.2.0.1.1}
                                                   %
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1461,11 +1514,11 @@ my insertion and my current dilemma will both disappear.
 
 Missing character: There is no � in font cmr10!
 Missing character: There is no � in font cmr10!
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing } i
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:4: Missing } i
 nserted.
 <inserted text> 
                 }
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+l.4 ...1, \lambda _2}{3}{subsubsubsection.2.0.1.1}
                                                   %
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1473,20 +1526,20 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
 nserted.
 <inserted text> 
                 $
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
                                                   %
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing { i
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing { i
 nserted.
 <to be read again> 
                    \begingroup 
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
                                                   %
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -1494,24 +1547,69 @@ so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
 
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: LaTeX Error
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: LaTeX Error
 : Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
                                                   %
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing } i
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing } i
 nserted.
 <inserted text> 
                 }
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
+                                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Extra }, or
+ forgotten $.
+<argument> ...alues,\ \lambda _\(1,2\)= p \pm qi }
+                                                  \hyper@linkend 
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
+                                                  %
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing } i
+nserted.
+<inserted text> 
+                }
+l.5 ...\)= p \pm qi }{3}{subsubsubsection.2.0.1.2}
                                                   %
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1523,16 +1621,16 @@ C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
 nserted.
 <inserted text> 
                 $
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.6 ...\ Eigenvalues}{5}{subsubsubsection.2.0.1.3}
                                                   %
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Extra }, or
  forgotten $.
-<argument> ...alues,\ \lambda _\(1,2\)= p \pm qi }
+<argument> ...}\Delta = 0,\ Repeated\ Eigenvalues}
                                                   \hyper@linkend 
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.6 ...\ Eigenvalues}{5}{subsubsubsection.2.0.1.3}
                                                   %
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1544,7 +1642,7 @@ C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
 nserted.
 <inserted text> 
                 $
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+l.6 ...\ Eigenvalues}{5}{subsubsubsection.2.0.1.3}
                                                   %
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1556,52 +1654,7 @@ C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing } i
 nserted.
 <inserted text> 
                 }
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Extra }, or
- forgotten $.
-<argument> ...}\Delta = 0,\ Repeated\ Eigenvalues}
-                                                  \hyper@linkend 
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing } i
-nserted.
-<inserted text> 
-                }
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
+l.6 ...\ Eigenvalues}{5}{subsubsubsection.2.0.1.3}
                                                   %
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1615,51 +1668,55 @@ my insertion and my current dilemma will both disappear.
 
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 119.
+Package pdftex.def Info: hcmut.png  used on input line 122.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1
-19.
+22.
  (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 119.
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 122.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.119     \newpage
+l.122     \newpage
                    [1]
 
-template.tex:139: LaTeX Error: Unicode character ̃ (U+0303)
+template.tex:142: LaTeX Error: Unicode character ̃ (U+0303)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 ...ltirow{3}{*}{Nguyễn Thị Thanh Uyên}
+l.142 ...ltirow{3}{*}{Nguyễn Thị Thanh Uyên}
                                                          & \multirow{3}{*}{2...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-template.tex:139: LaTeX Error: Unicode character ̣ (U+0323)
+template.tex:142: LaTeX Error: Unicode character ̣ (U+0323)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 ...ltirow{3}{*}{Nguyễn Thị Thanh Uyên}
+l.142 ...ltirow{3}{*}{Nguyễn Thị Thanh Uyên}
                                                          & \multirow{3}{*}{2...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 (./p1.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
 ./p1.tex:22: Missing { inserted.
 <to be read again> 
                    \begingroup 
@@ -1853,7 +1910,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<./hcmut.png, id=83, 272.01625pt x 277.035pt>
+<./hcmut.png, id=88, 272.01625pt x 277.035pt>
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 97.
@@ -2271,12 +2328,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-)
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 154.
-
-(./p3.tex
+) (./p3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
@@ -2316,16 +2368,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-
+File: ./hcmut.png Graphic file (type png)
+<use ./hcmut.png>
+Package pdftex.def Info: ./hcmut.png  used on input line 39.
+(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-File: ./hcmut.png Graphic file (type png)
-<use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 41.
-(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
  []
@@ -2913,33 +2965,945 @@ l.319 ...n⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--321
+
+ []
+
+./p3.tex:347: Missing { inserted.
+<to be read again> 
+                   ^
+l.347         }
+               \label{eq:equation2}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./p3.tex:347: Missing } inserted.
+<inserted text> 
+                }
+l.347         }
+               \label{eq:equation2}
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+./p3.tex:347: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+./p3.tex:347: Missing { inserted.
+<to be read again> 
+                   ^
+l.347         }
+               \label{eq:equation2}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./p3.tex:347: Missing } inserted.
+<inserted text> 
+                }
+l.347         }
+               \label{eq:equation2}
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+./p3.tex:347: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+
+./p3.tex:352: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.352 ...ow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡
+                                                  t         (3) \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:353: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.353 ...R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡
+                                                  t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+
+./p3.tex:360: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 ...tarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡
+                                                  t-6J+2 sin⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:360: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.360 ...J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡
+                                                  t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:361: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361     \Longleftrightarrow J''-3J'+2J=4 sin⁡
+                                                 t+8 cos⁡t         (4) \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:361: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 ...trightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡
+                                                  t         (4) \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--363
+
+ []
+
+File: ./hcmut.png Graphic file (type png)
+<use ./hcmut.png>
+Package pdftex.def Info: ./hcmut.png  used on input line 363.
+(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+[10]
+
+./p3.tex:367: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.367     \Longleftrightarrow \(
+                                \left[ \begin{array}{l}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--372
+
+ []
+
+
+./p3.tex:378: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378     J_P=A.sin⁡
+                      t+B.cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:378: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378     J_P=A.sin⁡t+B.cos⁡
+                                t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:379: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379     \Rightarrow J_P'=A cos⁡
+                                   t-B sin⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:379: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379     \Rightarrow J_P'=A cos⁡t-B sin⁡
+                                             t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:380: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380     \Rightarrow J_P''=-A sin⁡
+                                     t-B cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:380: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380     \Rightarrow J_P''=-A sin⁡t-B cos⁡
+                                               t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--382
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386     (-A+3B+2A)  sin⁡
+                            t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386     (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡
+                                                t=4 sin⁡t+8 cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386 ...2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡
+                                                  t+8 cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.386 ...�t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡
+                                                  t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387     \Longleftrightarrow (A+3B)  sin⁡
+                                            t+(-3A+B)  cos⁡t=4 sin⁡t+8 c...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 ...ightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡
+                                                  t=4 sin⁡t+8 cos⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 ...(A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡
+                                                  t+8 cos⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.387 ...n⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡
+                                                  t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--389
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+
+ []
+
+
+./p3.tex:404: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404     \Rightarrow J_p=-2 sin⁡
+                                   t+2 cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:404: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.404     \Rightarrow J_p=-2 sin⁡t+2 cos⁡
+                                             t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:405: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 ...\Rightarrow J=C_1.e^t+C_2.e^{2t}-2 sin⁡
+                                                  t+2 cos⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:405: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.405 ...w J=C_1.e^t+C_2.e^{2t}-2 sin⁡t+2 cos⁡
+                                                  t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:406: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 ...ightarrow J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡
+                                                  t-2 sin⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:406: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.406 ...J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡t-2 sin⁡
+                                                  t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+
+ []
+
+
+./p3.tex:412: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.412 ... \frac{1}{2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡
+                                                  t )+cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:412: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.412 ...2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡t )+cos⁡
+                                                  t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:413: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 ... R=C_1.e^t+ \frac{3}{2} C_2.e^2t-2 sin⁡
+                                                  t+cos⁡t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:413: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 ...^t+ \frac{3}{2} C_2.e^2t-2 sin⁡t+cos⁡
+                                                  t \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--415
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+
+ []
+
+File: ./hcmut.png Graphic file (type png)
+<use ./hcmut.png>
+Package pdftex.def Info: ./hcmut.png  used on input line 443.
+(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+
+ []
+
+
+./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.451         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.451         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.451         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.451         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+./p3.tex:463: Missing { inserted.
+<to be read again> 
+                   ^
+l.463         }
+               \label{eq:equation2}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./p3.tex:463: Missing } inserted.
+<inserted text> 
+                }
+l.463         }
+               \label{eq:equation2}
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+./p3.tex:463: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.463         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+./p3.tex:463: Missing { inserted.
+<to be read again> 
+                   ^
+l.463         }
+               \label{eq:equation2}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./p3.tex:463: Missing } inserted.
+<inserted text> 
+                }
+l.463         }
+               \label{eq:equation2}
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+./p3.tex:463: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.463         }
+               \label{eq:equation2}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+
+./p3.tex:467: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.467     (2) \Rightarrow R=J'-3J-sin⁡
+                                        t         (3) \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:468: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.468     \Rightarrow R'=J''-3J'-cos⁡
+                                       t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+./p3.tex:474: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.474     J''-3J'-cos⁡
+                        t=2(J'-3J-sint)+6J-cost\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:475: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.475     \Longleftrightarrow J''-3J'-cos⁡
+                                            t=2J'-6J-2 sin⁡t+6J-cos⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:475: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.475 ...ightarrow J''-3J'-cos⁡t=2J'-6J-2 sin⁡
+                                                  t+6J-cos⁡t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:475: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.475 ...''-3J'-cos⁡t=2J'-6J-2 sin⁡t+6J-cos⁡
+                                                  t\\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./p3.tex:476: LaTeX Error: Unicode character ⁡ (U+2061)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.476     \Longleftrightarrow J''-5J'=-2 sin⁡
+                                               t         (4) \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+
+ []
+
+
+./p3.tex:483: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.483     \Longleftrightarrow \(
+                                \left[ \begin{array}{l}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--494
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--502
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+./p3.tex:507: Missing $ inserted.
+<inserted text> 
+                $
+l.507     $\Longleftrightarrow
+                              $
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+File: ./hcmut.png Graphic file (type png)
+<use ./hcmut.png>
+Package pdftex.def Info: ./hcmut.png  used on input line 520.
+(pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+[12]
+./p3.tex:521: Missing $ inserted.
+<inserted text> 
+                $
+l.521     \Rightarrow
+                      J-P = \frac{1}{13}sint - \frac{5}{13}cost \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 571--161
+
+ []
+
+
 AED: lastpage setting LastPage
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 168.
+Package pdftex.def Info: hcmut.png  used on input line 169.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-[10] (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
+[13] (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `template.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `template.out':
-(rerunfilecheck)             Before: BD064CCF49AE205F761FE07147752B6A;1886
-(rerunfilecheck)             After:  F4E967E8E4925B68411E2DA842D5D6F6;2108.
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: 3E3EE999953E4E2FCC839C59210A07D3;1936.
  ) 
 Here is how much of TeX's memory you used:
- 27417 strings out of 478338
- 509324 string characters out of 2837172
- 797978 words of memory out of 3000000
- 45255 multiletter control sequences out of 15000+600000
+ 27458 strings out of 478338
+ 510344 string characters out of 2837172
+ 798032 words of memory out of 3000000
+ 45274 multiletter control sequences out of 15000+600000
  482976 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,25n,120p,423b,635s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 125i,25n,120p,444b,635s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\binh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmex10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -2958,9 +3922,9 @@ nh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/binh/
 AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/binh/A
 ppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
 Output written on C:/Users\binh\Documents\GitHub\Latex-Template\out\template.pd
-f (11 pages, 260149 bytes).
+f (14 pages, 271926 bytes).
 PDF statistics:
- 245 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
