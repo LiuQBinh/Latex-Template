@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  5 SEP 2022 01:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  5 SEP 2022 01:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2329,81 +2329,86 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ) (./p3.tex
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 39.
+Package pdftex.def Info: ./hcmut.png  used on input line 38.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--44
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--61
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--65
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
  []
 
@@ -2432,115 +2437,110 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--97
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
-
- []
-
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 101.
+Package pdftex.def Info: ./hcmut.png  used on input line 98.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [7]
 
-./p3.tex:102: LaTeX Error: Unicode character β (U+03B2)
+./p3.tex:99: LaTeX Error: Unicode character β (U+03B2)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102 ... (t).sin{\beta t}t+K_l (t).cos{\beta t}β
+l.99 ...l (t).sin{\beta t}t+K_l (t).cos{\beta t}β
                                                   t ]$ \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
 
  []
 
 
-./p3.tex:104: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:101: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104     Với $l=max⁡
+l.101     Với $l=max⁡
                          (n;m)$
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+Underfull \hbox (badness 10000) in paragraph at lines 117--120
 
  []
 
 
-LaTeX Warning: Command \d invalid in math mode on input line 126.
+LaTeX Warning: Command \d invalid in math mode on input line 123.
 
 Missing character: There is no � in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--129
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--138
+Underfull \hbox (badness 10000) in paragraph at lines 127--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--161
+Underfull \hbox (badness 10000) in paragraph at lines 154--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 170.
+Package pdftex.def Info: ./hcmut.png  used on input line 167.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [8]
-./p3.tex:223: Missing { inserted.
+./p3.tex:220: Missing { inserted.
 <to be read again> 
                    ^
-l.223     \Rightarrow J = \frac{1}{6} R^'
+l.220     \Rightarrow J = \frac{1}{6} R^'
                                          - \frac{2}{3} R        (3) \\
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:225: Missing } inserted.
+./p3.tex:222: Missing } inserted.
 <inserted text> 
                 }
-l.225     $
+l.222     $
            
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2549,1337 +2549,1337 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./p3.tex:238: LaTeX Error: Bad math environment delimiter.
+./p3.tex:235: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.238     \(
+l.235     \(
             \left[ \begin{array}{l}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./p3.tex:241: Missing $ inserted.
+./p3.tex:238: Missing $ inserted.
 <inserted text> 
                 $
-l.241 
+l.238 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--241
+Underfull \hbox (badness 10000) in paragraph at lines 232--238
 
  []
 
-./p3.tex:242: Missing $ inserted.
+./p3.tex:239: Missing $ inserted.
 <inserted text> 
                 $
-l.242     \Rightarrow
+l.239     \Rightarrow
                       R_C = C_1 + C_2.e^{7t} \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--244
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--254
+Underfull \hbox (badness 10000) in paragraph at lines 242--251
 
  []
 
-./p3.tex:279: Missing { inserted.
+./p3.tex:276: Missing { inserted.
 <to be read again> 
                    ^
-l.279         }
+l.276         }
                \label{eq:equation2}
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:279: Missing } inserted.
+./p3.tex:276: Missing } inserted.
 <inserted text> 
                 }
-l.279         }
+l.276         }
                \label{eq:equation2}
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-./p3.tex:279: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:276: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.279         }
+l.276         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-./p3.tex:279: Missing { inserted.
+./p3.tex:276: Missing { inserted.
 <to be read again> 
                    ^
-l.279         }
+l.276         }
                \label{eq:equation2}
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:279: Missing } inserted.
+./p3.tex:276: Missing } inserted.
 <inserted text> 
                 }
-l.279         }
+l.276         }
                \label{eq:equation2}
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-./p3.tex:279: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:276: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.279         }
+l.276         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 280.
+Package pdftex.def Info: ./hcmut.png  used on input line 277.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [9]
 
-./p3.tex:284: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:281: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.284 ...ow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡
+l.281 ...ow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡
                                                   t         (3) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:285: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:282: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.285 ...R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡
+l.282 ...R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--287
+Underfull \hbox (badness 10000) in paragraph at lines 279--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 
-./p3.tex:292: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:289: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.292 ...tarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡
+l.289 ...tarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡
                                                   t-6J+2 sin⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:292: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:289: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.292 ...J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡
+l.289 ...J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:293: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:290: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.293     \Longleftrightarrow J''-3J'+2J=4 sin⁡
+l.290     \Longleftrightarrow J''-3J'+2J=4 sin⁡
                                                  t+8 cos⁡t         (4) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:293: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:290: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.293 ...trightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡
+l.290 ...trightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡
                                                   t         (4) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--295
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
 
  []
 
 
-./p3.tex:299: LaTeX Error: Bad math environment delimiter.
+./p3.tex:296: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.299     \Longleftrightarrow \(
+l.296     \Longleftrightarrow \(
                                 \left[ \begin{array}{l}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--304
+Underfull \hbox (badness 10000) in paragraph at lines 293--301
 
  []
 
 
-./p3.tex:310: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:307: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.310     J_P=A.sin⁡
+l.307     J_P=A.sin⁡
                       t+B.cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:310: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:307: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.310     J_P=A.sin⁡t+B.cos⁡
+l.307     J_P=A.sin⁡t+B.cos⁡
                                 t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:311: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:308: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.311     \Rightarrow J_P'=A cos⁡
+l.308     \Rightarrow J_P'=A cos⁡
                                    t-B sin⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:311: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:308: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.311     \Rightarrow J_P'=A cos⁡t-B sin⁡
+l.308     \Rightarrow J_P'=A cos⁡t-B sin⁡
                                              t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:312: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:309: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.312     \Rightarrow J_P''=-A sin⁡
+l.309     \Rightarrow J_P''=-A sin⁡
                                      t-B cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:312: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:309: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.312     \Rightarrow J_P''=-A sin⁡t-B cos⁡
+l.309     \Rightarrow J_P''=-A sin⁡t-B cos⁡
                                                t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--314
+Underfull \hbox (badness 10000) in paragraph at lines 302--311
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
 
-./p3.tex:318: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:315: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.318     (-A+3B+2A)  sin⁡
+l.315     (-A+3B+2A)  sin⁡
                             t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:318: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:315: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.318     (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡
+l.315     (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡
                                                 t=4 sin⁡t+8 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:318: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:315: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.318 ...2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡
+l.315 ...2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡
                                                   t+8 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:318: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:315: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.318 ...�t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡
+l.315 ...�t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡
                                                   t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:319: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:316: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319     \Longleftrightarrow (A+3B)  sin⁡
+l.316     \Longleftrightarrow (A+3B)  sin⁡
                                             t+(-3A+B)  cos⁡t=4 sin⁡t+8 c...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:319: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:316: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 ...ightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡
+l.316 ...ightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡
                                                   t=4 sin⁡t+8 cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:319: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:316: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 ...(A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡
+l.316 ...(A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡
                                                   t+8 cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:319: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:316: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 ...n⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡
+l.316 ...n⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--321
+Underfull \hbox (badness 10000) in paragraph at lines 314--318
 
  []
 
-./p3.tex:347: Missing { inserted.
+./p3.tex:344: Missing { inserted.
 <to be read again> 
                    ^
-l.347         }
+l.344         }
                \label{eq:equation2}
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:347: Missing } inserted.
+./p3.tex:344: Missing } inserted.
 <inserted text> 
                 }
-l.347         }
+l.344         }
                \label{eq:equation2}
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-./p3.tex:347: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:344: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.347         }
+l.344         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-./p3.tex:347: Missing { inserted.
+./p3.tex:344: Missing { inserted.
 <to be read again> 
                    ^
-l.347         }
+l.344         }
                \label{eq:equation2}
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:347: Missing } inserted.
+./p3.tex:344: Missing } inserted.
 <inserted text> 
                 }
-l.347         }
+l.344         }
                \label{eq:equation2}
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-./p3.tex:347: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:344: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.347         }
+l.344         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
 
-./p3.tex:352: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:349: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.352 ...ow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡
+l.349 ...ow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡
                                                   t         (3) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:353: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:350: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.353 ...R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡
+l.350 ...R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 350--355
+Underfull \hbox (badness 10000) in paragraph at lines 347--352
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 
  []
 
 
-./p3.tex:360: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:357: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.360 ...tarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡
+l.357 ...tarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡
                                                   t-6J+2 sin⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:360: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:357: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.360 ...J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡
+l.357 ...J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:361: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:358: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.361     \Longleftrightarrow J''-3J'+2J=4 sin⁡
+l.358     \Longleftrightarrow J''-3J'+2J=4 sin⁡
                                                  t+8 cos⁡t         (4) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:361: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:358: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.361 ...trightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡
+l.358 ...trightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡
                                                   t         (4) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--363
+Underfull \hbox (badness 10000) in paragraph at lines 355--360
 
  []
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 363.
+Package pdftex.def Info: ./hcmut.png  used on input line 360.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [10]
 
-./p3.tex:367: LaTeX Error: Bad math environment delimiter.
+./p3.tex:364: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.367     \Longleftrightarrow \(
+l.364     \Longleftrightarrow \(
                                 \left[ \begin{array}{l}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 364--372
+Underfull \hbox (badness 10000) in paragraph at lines 361--369
 
  []
 
 
-./p3.tex:378: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:375: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.378     J_P=A.sin⁡
+l.375     J_P=A.sin⁡
                       t+B.cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:378: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:375: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.378     J_P=A.sin⁡t+B.cos⁡
+l.375     J_P=A.sin⁡t+B.cos⁡
                                 t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:379: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:376: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.379     \Rightarrow J_P'=A cos⁡
+l.376     \Rightarrow J_P'=A cos⁡
                                    t-B sin⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:379: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:376: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.379     \Rightarrow J_P'=A cos⁡t-B sin⁡
+l.376     \Rightarrow J_P'=A cos⁡t-B sin⁡
                                              t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:380: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:377: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.380     \Rightarrow J_P''=-A sin⁡
+l.377     \Rightarrow J_P''=-A sin⁡
                                      t-B cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:380: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:377: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.380     \Rightarrow J_P''=-A sin⁡t-B cos⁡
+l.377     \Rightarrow J_P''=-A sin⁡t-B cos⁡
                                                t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--382
+Underfull \hbox (badness 10000) in paragraph at lines 370--379
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
 
-./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:383: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.386     (-A+3B+2A)  sin⁡
+l.383     (-A+3B+2A)  sin⁡
                             t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:383: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.386     (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡
+l.383     (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡
                                                 t=4 sin⁡t+8 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:383: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.386 ...2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡
+l.383 ...2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡
                                                   t+8 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:386: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:383: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.386 ...�t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡
+l.383 ...�t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡
                                                   t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:384: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.387     \Longleftrightarrow (A+3B)  sin⁡
+l.384     \Longleftrightarrow (A+3B)  sin⁡
                                             t+(-3A+B)  cos⁡t=4 sin⁡t+8 c...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:384: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.387 ...ightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡
+l.384 ...ightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡
                                                   t=4 sin⁡t+8 cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:384: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.387 ...(A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡
+l.384 ...(A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡
                                                   t+8 cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:387: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:384: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.387 ...n⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡
+l.384 ...n⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--389
+Underfull \hbox (badness 10000) in paragraph at lines 382--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
  []
 
 
-./p3.tex:404: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:401: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.404     \Rightarrow J_p=-2 sin⁡
+l.401     \Rightarrow J_p=-2 sin⁡
                                    t+2 cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:404: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:401: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.404     \Rightarrow J_p=-2 sin⁡t+2 cos⁡
+l.401     \Rightarrow J_p=-2 sin⁡t+2 cos⁡
                                              t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:405: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:402: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.405 ...\Rightarrow J=C_1.e^t+C_2.e^{2t}-2 sin⁡
+l.402 ...\Rightarrow J=C_1.e^t+C_2.e^{2t}-2 sin⁡
                                                   t+2 cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:405: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:402: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.405 ...w J=C_1.e^t+C_2.e^{2t}-2 sin⁡t+2 cos⁡
+l.402 ...w J=C_1.e^t+C_2.e^{2t}-2 sin⁡t+2 cos⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:406: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:403: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.406 ...ightarrow J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡
+l.403 ...ightarrow J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡
                                                   t-2 sin⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:406: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:403: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.406 ...J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡t-2 sin⁡
+l.403 ...J'=C_1.e^t+2C_2.e^{2t}-2 cos⁡t-2 sin⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--408
+Underfull \hbox (badness 10000) in paragraph at lines 399--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
 
  []
 
 
-./p3.tex:412: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:409: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.412 ... \frac{1}{2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡
+l.409 ... \frac{1}{2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡
                                                   t )+cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:412: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:409: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.412 ...2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡t )+cos⁡
+l.409 ...2}.(2C_1.e^t+3C_2.e^2t-4 sin⁡t )+cos⁡
                                                   t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:413: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:410: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.413 ... R=C_1.e^t+ \frac{3}{2} C_2.e^2t-2 sin⁡
+l.410 ... R=C_1.e^t+ \frac{3}{2} C_2.e^2t-2 sin⁡
                                                   t+cos⁡t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:413: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:410: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.413 ...^t+ \frac{3}{2} C_2.e^2t-2 sin⁡t+cos⁡
+l.410 ...^t+ \frac{3}{2} C_2.e^2t-2 sin⁡t+cos⁡
                                                   t \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--415
+Underfull \hbox (badness 10000) in paragraph at lines 408--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--417
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--423
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 443.
+Package pdftex.def Info: ./hcmut.png  used on input line 440.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--446
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
 
  []
 
 
-./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:448: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.451         }
+l.448         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:448: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.451         }
+l.448         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:448: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.451         }
+l.448         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:451: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:448: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.451         }
+l.448         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
-./p3.tex:463: Missing { inserted.
+./p3.tex:460: Missing { inserted.
 <to be read again> 
                    ^
-l.463         }
+l.460         }
                \label{eq:equation2}
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:463: Missing } inserted.
+./p3.tex:460: Missing } inserted.
 <inserted text> 
                 }
-l.463         }
+l.460         }
                \label{eq:equation2}
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-./p3.tex:463: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:460: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.463         }
+l.460         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-./p3.tex:463: Missing { inserted.
+./p3.tex:460: Missing { inserted.
 <to be read again> 
                    ^
-l.463         }
+l.460         }
                \label{eq:equation2}
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-./p3.tex:463: Missing } inserted.
+./p3.tex:460: Missing } inserted.
 <inserted text> 
                 }
-l.463         }
+l.460         }
                \label{eq:equation2}
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-./p3.tex:463: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:460: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.463         }
+l.460         }
                \label{eq:equation2}
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 
  []
 
 
-./p3.tex:467: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:464: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.467     (2) \Rightarrow R=J'-3J-sin⁡
+l.464     (2) \Rightarrow R=J'-3J-sin⁡
                                         t         (3) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:468: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:465: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.468     \Rightarrow R'=J''-3J'-cos⁡
+l.465     \Rightarrow R'=J''-3J'-cos⁡
                                        t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--470
+Underfull \hbox (badness 10000) in paragraph at lines 463--467
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
 
  []
 
 
-./p3.tex:474: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:471: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.474     J''-3J'-cos⁡
+l.471     J''-3J'-cos⁡
                         t=2(J'-3J-sint)+6J-cost\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:475: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:472: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.475     \Longleftrightarrow J''-3J'-cos⁡
+l.472     \Longleftrightarrow J''-3J'-cos⁡
                                             t=2J'-6J-2 sin⁡t+6J-cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:475: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:472: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.475 ...ightarrow J''-3J'-cos⁡t=2J'-6J-2 sin⁡
+l.472 ...ightarrow J''-3J'-cos⁡t=2J'-6J-2 sin⁡
                                                   t+6J-cos⁡t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:475: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:472: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.475 ...''-3J'-cos⁡t=2J'-6J-2 sin⁡t+6J-cos⁡
+l.472 ...''-3J'-cos⁡t=2J'-6J-2 sin⁡t+6J-cos⁡
                                                   t\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-./p3.tex:476: LaTeX Error: Unicode character ⁡ (U+2061)
+./p3.tex:473: LaTeX Error: Unicode character ⁡ (U+2061)
                not set up for use with LaTeX.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.476     \Longleftrightarrow J''-5J'=-2 sin⁡
+l.473     \Longleftrightarrow J''-5J'=-2 sin⁡
                                                t         (4) \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 473--478
+Underfull \hbox (badness 10000) in paragraph at lines 470--475
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
 
  []
 
 
-./p3.tex:483: LaTeX Error: Bad math environment delimiter.
+./p3.tex:480: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.483     \Longleftrightarrow \(
+l.480     \Longleftrightarrow \(
                                 \left[ \begin{array}{l}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--488
+Underfull \hbox (badness 10000) in paragraph at lines 478--485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--494
+Underfull \hbox (badness 10000) in paragraph at lines 488--491
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--502
+Underfull \hbox (badness 10000) in paragraph at lines 494--499
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--504
+Underfull \hbox (badness 10000) in paragraph at lines 500--501
 
  []
 
-./p3.tex:507: Missing $ inserted.
+./p3.tex:504: Missing $ inserted.
 <inserted text> 
                 $
-l.507     $\Longleftrightarrow
+l.504     $\Longleftrightarrow
                               $
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 520.
+Package pdftex.def Info: ./hcmut.png  used on input line 517.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 [12]
-./p3.tex:521: Missing $ inserted.
+./p3.tex:518: Missing $ inserted.
 <inserted text> 
                 $
-l.521     \Rightarrow
+l.518     \Rightarrow
                       J-P = \frac{1}{13}sint - \frac{5}{13}cost \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--525
+Underfull \hbox (badness 10000) in paragraph at lines 517--522
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--531
+Underfull \hbox (badness 10000) in paragraph at lines 523--528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--533
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--540
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 547--548
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--556
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--564
+Underfull \hbox (badness 10000) in paragraph at lines 560--561
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 571--161
+Underfull \hbox (badness 10000) in paragraph at lines 568--161
 
  []
 
@@ -3893,8 +3893,14 @@ Package pdftex.def Info: hcmut.png  used on input line 169.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 3E3EE999953E4E2FCC839C59210A07D3;1936.
+
+Package rerunfilecheck Warning: File `template.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `template.out':
+(rerunfilecheck)             Before: 3E3EE999953E4E2FCC839C59210A07D3;1936
+(rerunfilecheck)             After:  8ABF537CAF38E659B3EA72521185A08B;1816.
  ) 
 Here is how much of TeX's memory you used:
  27458 strings out of 478338
@@ -3904,25 +3910,29 @@ Here is how much of TeX's memory you used:
  482976 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,25n,120p,444b,635s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\binh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
-000.pk><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmex10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmmi10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/binh/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/binh/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/binh/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/binh/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/binh/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/User
-s/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users
-/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/
-binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/bi
-nh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/binh/
-AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/binh/A
-ppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
+
+pdfTeX warning (dest): name{subsection.4.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+ <C:\Users\binh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm100
+0.pk><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/binh/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/binh/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/binh/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/binh/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/binh/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/
+binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/b
+inh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/bi
+nh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/binh
+/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/binh/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/binh/App
+Data/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
 Output written on C:/Users\binh\Documents\GitHub\Latex-Template\out\template.pd
-f (14 pages, 271803 bytes).
+f (14 pages, 267820 bytes).
 PDF statistics:
  283 PDF objects out of 1000 (max. 8388607)
  70 named destinations out of 1000 (max. 500000)
