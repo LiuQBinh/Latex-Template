@@ -1,0 +1,5 @@
+\standalonepreambles
+\subpreamble{./p1.tex}
+
+\endsubpreamble
+\endstandalonepreambles
