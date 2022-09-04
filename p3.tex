@@ -1,147 +1,335 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\hop}[1]{
     \begin{tcolorbox}
-        [colback=cyan!15,colframe=orange!75!white]{#1}
+    [colback=cyan!15,colframe=orange!75!white]{#1}
     \end{tcolorbox}
 }
 \definecolor{lightgray}{gray}{.95}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-    \begin{description}
-        \item[I] Nhân đa thức với đa thức
-        \begin{description}
-            \item[1] Nhân đơn thức với đơn thức
-            \hop{
-                Để nhân hai đơn thức, ta nhân các hệ số với nhau và nhân các phần biến với nhau.
-            }
 
-            \textbf{Ví dụ $1$} Tìm tích của
-            \begin{multicols}{2}
-                $x$ và $2xy$\\
-                $y$ và $-2xy$.
-            \end{multicols}
-
-            \item[2] Nhân đơn thức với đa thức
-            \hop{
-                Muốn nhân một đơn thức với một đa thức, ta nhân đơn thức với từng hạng tử của đa thức rồi cộng các tích với nhau.}
-            \textbf{Ví du 2} Làm tính nhân.
-            \begin{multicols}{2}
-                \noindent a) $x(x+y)$\\
-                b) $y(x-y)$\\
-                c) $x(x^2+2xy+y^2)$\\
-                d) $y(x^2+2xy+y^2)$
-            \end{multicols}
+    \subsection{Bài tập 3:} Giả sử rằng tình yêu của Romeo và Juliet bị xáo trộn bởi các điều kiện bên ngoài. Trong trường hợp này, tình yêu giữa họ được mô hình hoá bởi Hệ phương trình vi phân như sau:
 
 
-            \item[3] Nhân đa thức với đa thức
-            \hop{Muốn nhân một đa thức với một đa thức, ta nhân mỗi hạng tử của đa thức này với từng hạng tử của đa thức kia rồi cộng các tích với nhau.}
-            \textbf{Ví dụ $3$} Làm tính nhân
-            \begin{multicols}{2}
-                $(x+y)(x-y)$\\
-                $(x+y)(x^2-xy+y^2)$
-            \end{multicols}
-        \end{description}
-        \item[II] Những hằng đẳng thức đáng nhớ
-        \begin{description}
-            \item[$1.$] Bình phương của một tổng.
-            \begin{equation*}
-                \begin{split}
-                (x+y)
-                    ^{2}&=(x+y)(x+y)\\
-                    &=x(x+y)+y(x+y)\\
-                    &=(x^2+xy)+(yx+y^2)\\
-                    &=x^2+xy+yx+y^2\\
-                    &=x^2+2xy+y^2.
-                \end{split}
-            \end{equation*}
-            Thơ để nhớ :\\
-            \emph{Bình phương của một tổng\\
-            Tất cả đều bậc hai\\
-            Hệ số ở hàng hai\\
-            Một cộng hai rồi một}\\
+    \begin{equation}
+        \systeme{
+            R' = aR + bJ + f(t),
+            J' = cR + dJ + g(t),
+            R(0) = R_0,
+            J(0) = J_0
+        }\label{eq:equation2}
+    \end{equation}
 
-            Nếu tổng quát :\\
-            \emph{Mũ n của một tổng\\
-            Tất cả đều bậc n\\
-            Hệ số ở hàng n\\
-            Tam giác Pascal}
+    Trong đó f và g là hai hàm thực phụ thuộc vào t. \\
 
-            \item[$2.$] Bình phương của một hiệu. Áp dụng hằng đẳng thức số $1$ ta có
-            \begin{equation*}
-                \begin{split}
-                (x-y)
-                    ^2&=[x+(-y)]^2\\
-                    &=x^2+2x(-y)+(-y)^2\\
-                    &=x^2-2xy+y^2.
-                \end{split}
-            \end{equation*}
-            Thơ để nhớ :\\
-            \emph{Bình phương của một hiệu\\
-            Tất cả đều bậc hai\\
-            Hệ số ở hàng hai\\
-            Một trừ hai rồi một}
-            \item[$3.$] Hiệu hai bình phương
-            \begin{equation*}
-                \begin{split}
-                    x^2-y^2&=x^2-xy+xy-y^2\\
-                    &=x(x-y)+y(x-y)\\
-                    &=(x+y)(x-y).
-                \end{split}
-            \end{equation*}
-            Thơ để nhớ:\\
-            \emph{Hiệu của hai bình phương\\
-            Tổng bình thường nhân hiệu\\}
+    Để giải được hệ phương trình vi phân trên thì f(t) và g(t) phải có những dạng đặc biệt sau: \\
 
-            \item[$4.$] Lập phương của một tổng
-            \begin{equation*}
-                \begin{split}
-                (x+y)
-                    ^3&=(x+y)(x+y)^2\\
-                    &=(x+y)(x^2+2xy+y^2)\\
-                    &=x^3+3x^2y+3xy^2+y^3\\
-                    &=x^3+y^3+3xy(x+y)
-                \end{split}
-            \end{equation*}
-            Thơ để nhớ :\\
-            \emph{Lập phương của một tổng\\
-            Tất cả đều bậc ba\\
-            Hệ số ở hàng ba\\
-            Một ba rồi ba một}
-            \item[$5.$] Lập phương của một hiệu. Áp dụng hằng đẳng thức số $4$ bằng cách thay $y$ bằng $-y$ ta được
-            $$ (x-y)^3=x^3-3x^2y+3xy^2-y^3 $$
-            Thơ để nhớ :\\
-            \emph{Lập phương của một hiệu\\
-            Cũng giống tổng lập phương\\
-            Nhưng tổng với số âm\\
-            Nên có dấu xen kẽ}
-            \item[$6.$] Tổng hai lập phương.
+    $e^{\alpha t}.P_n(t)$ \\
 
-            Từ hằng đẳng thức số $4$ suy ra
-            \begin{equation*}
-                \begin{split}
-                    x^3+y^3&=(x+y)^3-3xy(x+y)\\
-                    &=(x+y)[(x+y)^2-3xy]\\
-                    &=(x+y)(x^2+2xy+y^2-3xy)\\
-                    &=(x+y)(x^2-xy+y^2)
-                \end{split}
-            \end{equation*}
-            Thơ để nhớ :\\
-            \emph{Tổng của hai lập phương\\
-            Là tích tổng của nó\\
-            Nhân với bình phương thiếu\\}
-            \item[$7.$] Hiệu hai lập phương
-            \begin{equation*}
-                \begin{split}
-                    x^3-y^3&=x^3+(-y)^3\\
-                    &=[x+(-y)][x^2-x(-y)+(-y)^2]\\
-                    &=(x-y)(x^2+xy+y^2)
-                \end{split}
-            \end{equation*}
-            Thơ để nhớ :\\
-            \emph{Hiệu của hai lập phương\\
-            Là tích hiệu của nó\\
-            Nhân với bình phương thiếu\\}
-        \end{description}
-    \end{description}
+    $e^{\alpha t}[P_n(t).sin\beta t +Q_m(t).cos\beta t]$ \\
+
+    \textbf{Cách giải:}\\
+
+    Từ 1 trong 2 phương trình rút 1 ẩn theo ẩn kia suy ra đẳng thức (*) \\
+
+    Thế đẳng thức (*) vào phương trình còn lại suy ra phương trình vi phân cấp 2 hệ số hằng (**) \\
+
+    Giải phương trình vi phân cấp 2 hệ số hằng (**) suy ra ẩn thứ nhất \\
+
+    Thế ẩn thứ nhất vào đẳng thức (*) suy ra ẩn thứ hai.\\
+
+    \textbf{Phương trình vi phân cấp 2:}\\
+    1) Phương trình vi phân cấp 2 tuyến tính thuần nhất hệ số hằng:\\
+
+    \begin{equation*}
+        y'' + p.y' + q.y = 0
+    \end{equation*}
+
+    Xét phương trình đặc trưng:
+    \begin{equation*}
+        k^2 + p.k + q = 0
+    \end{equation*}
+
+    Nếu $\delta > 0$ \\
+    $\Rightarrow$ phương trình có 2 nghiệm $k_1, k_2$ \\
+    $\Rightarrow$ Phương trình (*) có nghiệm là: $y= C_1.e^{k_1 t}+C_2.e^{k_2 t}$ \\
+
+    Nếu $\delta = 0$ \\
+    $\Rightarrow$ Phương trình có nghiệm kép $k$ \\
+    $\Rightarrow$ Phương trình (*) có nghiệm là: $y = C_1.e^{kt}+C_2.x.e^{kt}$ \\
+
+    Nếu Nếu $\delta < 0$ \\
+    $\Rightarrow$ Phương trình có nghiệm phức $\alpha \pm i.\beta$ \\
+    $\Rightarrow$ Phương trình (*) có nghiệm là: $y = e^{\alpha t}.(C_1.cos{\beta t} + C_2.sin{\beta t})$ \\
+
+    2) Phương trình vi phân cấp 2 tuyến tính hệ số hằng với vế phải đặc biệt: \\
+    a)    Định lý: \\
+
+    Giả sử: \\
+    $ y''+p.y'+q.y=f(t)$
+    có nghiệm $y=Y_1$ \\
+    $y''+p.y'+q.y=g(t)$
+    có nghiệm $y=Y_2$
+
+    Khi đó: \\
+    $y''+p.y'+q.y=f(t)+g(t)$
+    có nghiệm $y=Y_1+Y_2$
+
+    b) $y''+p.y'+q.y=e^{\alpha t}.P_n (t)$ với $P_n(t)$ là đa thức bận n\\
+
+    Giải phương trình: $y''+p.y'+q.y=0 \Rightarrow y_c=Y$
+
+    Nghiệm riêng $\alpha$ không là nghiệm của phương trình đặc trưng. \\
+    $\Rightarrow y_p=e^{\alpha t}.Q_n (t)$ \\
+
+    Nghiệm riêng $\alpha$ là nghiệm đơn của phương trình đặc trưng. \\
+    $\Rightarrow y_p=t.e^{\alpha t}.Q_n (t)$ \\
+
+    Nghiệm riêng $\alpha$ là nghiệm kép của phương trình đặc trưng. \\
+    $\Rightarrow y_p=t^2.e^{\alpha t}.Q_n (t)$ \\
+
+    Với $Q_n (t)$ là đa thức bậc n tổng quát \\
+    $y''+p.y'+q.y=e^{\alpha t}.[P_n(t).sin{\beta t}+Q_m (t).cos{\beta t} ]$ \\
+
+    Giải phương trình: \\
+    $y''+p.y'+q.y=0 \Rightarrow y_c=Y$ \\
+
+    Nghiệm riêng $\alpha \pm i \beta$ không là nghiệm của phương trình đặc trưng. \\
+    $\Rightarrow y_p=e^{\alpha t}.[H_l (t).sin{\beta t}+K_l (t).cos{\beta t} ]$ \\
+
+    Nghiệm riêng $\alpha \pm i \beta$ là nghiệm của phương trình đặc trưng. \\
+    $\Rightarrow y_p=t.e^{\alpha t}.[H_l (t).sin{\beta t}t+K_l (t).cos{\beta t}βt ]$ \\
+
+    Với $l=max⁡(n;m)$
+
+    \textbf{Ví dụ 1}:
+
+    \begin{equation}
+        \systeme{
+            R'=2R-J (1),
+            J'=-2R+J+18t (2),
+            R(0)=2,
+            J(0)=-1
+        }\label{eq:equation2}
+    \end{equation}
+
+    $(1) \Rightarrow J=-R'+2R (3) \\
+    \Rightarrow J'=-R''+2R'$ \\
+
+    Thế vào (2) ta được: \\
+    $-R''+2R'=-2R-R'+2R+18t$ \\
+    $\Rightarrow R''-3R'=-18t$        (4) \\
+
+    Phương trình đặc trưng: \\
+    $k^2 - 3k = 0 \\
+    \Longleftrightarrow  k = 0 hoặc k = 3 \\
+    \Rightarrow R_c = C_1 + C_2.e^{3t} \\
+    $
+
+    Ta có: \\
+    $ -18t = e^{0t}.(-18t)$ \\
+    $\Rightarrow \alpha = 0$ là nghiệm đơn của phương trình đặc trưng.\\
+    Suy ra, nghiệm riêng của (4) có dạng: \\
+    $ R_p=t.(At+B)=At^2+Bt \\
+    \Rightarrow R_P'=2At+B \\
+    \Rightarrow R_P''=2A \\
+    $
+
+    Thế vào (4) ta được:\\
+
+    $2A-3.(2At+B)=-18t$ \\
+
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            6At+2A-3B=-18t,
+            2A - 3B = 0
+        }\label{eq:equation2}
+    \end{equation}
+
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            A = 3,
+            B = 3
+        }\label{eq:equation2}
+    \end{equation}
+    $\Rightarrow R_p=3t^2+2t \\
+    \Rightarrow R=C_1+C_2.e^3t+3t^2+2t \\
+    \Rightarrow R'=3C_2.e^3t+6t+2 \\$
+
+    Thế vào (3) ta được: \\
+
+    $J=-(3C_2.e^{3t}+6t+2)+2(C_1+C_2.e^{3t}+3t^2+2t) \\
+    \Rightarrow J=2C_1-C_2.e^{3t}+6t^2-2t-2
+    $
+
+    Ta có: \\
+
+    \begin{equation}
+        \systeme{
+            R(0) = 2,
+            J(0) = -1
+        }\label{eq:equation2}
+    \end{equation}
+
+    \begin{equation}
+        \Rightarrow
+        \systeme{
+            C_1 + C_2 = 2,
+            2C_1 - C_2 -2 = -1
+        }\label{eq:equation2}
+    \end{equation}
+
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            C_1 + C_2 = 2,
+            2C_1 - C_2 =1
+        }\label{eq:equation2}
+    \end{equation}
+
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            C_1 = 1,
+            C_2 = 1
+        }\label{eq:equation2}
+    \end{equation}
+
+    Vậy nghiệm của hệ phương trình:
+    \begin{equation}
+        \systeme{
+            R = e^{3t}+3t^2+2t+1,
+            J = -e^{3t}+6t^2-2t
+        }\label{eq:equation2}
+    \end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    \textbf{Ví dụ 2}:
+
+    \begin{equation}
+        \systeme{
+            R'=4R+6J    (1),
+            J'=2R+3J+t   (2),
+            R(0) = \frac{1}{7}\, J(0) = \frac{6}{49}
+        }\label{eq:equation2}
+    \end{equation}
+
+    $
+    (1) \Rightarrow 6J=R'-4R \\
+    \Rightarrow J = \frac{1}{6} R^'- \frac{2}{3} R        (3) \\
+    \Rightarrow J'= \frac{1}{6} R''- \frac{2}{3} R' \\
+    $
+
+    Thế vào (2) ta được:
+
+    $
+    \frac{1}{6}R'' - \frac{2}{3}R' = 2R + 3 (\frac{1}{6}R' - \frac{2}{3}R) + t \\
+    \Longleftrightarrow R'' - 4R' = 12R + 3R' - 12R + 6t \\
+    \Longleftrightarrow R'' - 7R' = 6t (4)
+    $
+
+    Phương trình đặc trưng:
+    $
+    k^2 - 7k = 0 \\
+    \(\left[ \begin{array}{l}
+                 k = 0\\k=7
+    \end{array} \right.\\
+
+    \Rightarrow R_C = C_1 + C_2.e^{7t} \\
+    $
+
+    Ta có:;
+    $6t=e^{0t}.(6t) \\$
+    $\Rightarrow$ $\alpha = 0$ là nghiệm đơn của phương trình đặc trưng.
+    Suy ra, nghiệm riêng của (4) có dạng:
+    $
+    R_p=t.(At+B)=At^2+Bt \\
+    \Rightarrow R_p'=2At+B \\
+    \Rightarrow R_p''=2A \\
+    $
+
+    Thế vào (4) ta được:
+
+    $
+    2A-7.(2At+B)=6t
+    \Longleftrightarrow -14At+2A-7B=6t
+    $
+
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            -14A = 6,
+            2A - 7B = 0
+        }\label{eq:equation2}
+    \end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+    \textbf{Ví dụ 3:}
+
+    \begin{equation}
+        \systeme{
+            R^'=4R-3J+sin⁡t         (1),
+            J^'=2R-J-2 cos⁡t    (2),
+            R(0)=0,
+            J(0)=2
+        }\label{eq:equation2}
+    \end{equation}
+
+    $
+    (2) \Rightarrow 2R=J'+J+2 cost \\
+    \Rightarrow R= \frac{1}{2} J'+ \frac{1}{2}J+cos⁡t         (3) \\
+    \Rightarrow R'= \frac{1}{2} J''+\frac{1}{2} J'-sin⁡t\\
+    $
+
+    Thế vào (1) ta được: \\
+
+    $
+    \frac{1}{2} J''+ \frac{1}{2} J'- sint = 4.(\frac{1}{2}J'+\frac{1}{2}J+ cost) - 3J + sint \\
+    \Longleftrightarrow J'' + J' - 2sint = 4J'+4J+8 cos⁡t-6J+2 sin⁡t\\
+    \Longleftrightarrow J''-3J'+2J=4 sin⁡t+8 cos⁡t         (4) \\
+    $
+
+    Phương trình đặc trưng: \\
+    $
+    k^2-3k+2=0
+    \Longleftrightarrow \(\left[ \begin{array}{l}
+                                     k=1\\k=2
+    \end{array} \right.\ \\
+    \Rightarrow J_C = C_1.e^t + C_2.e^2t \\
+    $
+
+    Ta có: \\
+    $4sint+8cost=e^{0t}.(4sint+8cost)$ \\
+    $\Rightarrow \alpha \pm i\beta = \pm i$ không là nghiệm của phương trình đặc trưng. \\
+    Suy ra, nghiệm riêng của (4) có dạng: \\
+    $
+    J_P=A.sin⁡t+B.cos⁡t \\
+    \Rightarrow J_P'=A cos⁡t-B sin⁡t\\
+    \Rightarrow J_P''=-A sin⁡t-B cos⁡t \\
+    $
+
+    Thế vào (4) ta được: \\
+
+    $
+    (-A+3B+2A)  sin⁡t+(-B-3A+2B)  cos⁡t=4 sin⁡t+8 cos⁡t \\
+    \Longleftrightarrow (A+3B)  sin⁡t+(-3A+B)  cos⁡t=4 sin⁡t+8 cos⁡t\\
+    \Longleftrightarrow
+    $
+    \begin{equation}
+        \systeme{
+            A + 3B = 4,
+            -3A + B = 8
+        }\label{eq:equation2}
+    \end{equation}
+    \begin{equation}
+        \Longleftrightarrow
+        \systeme{
+            A = -2,
+            B = 2
+        }\label{eq:equation2}
+    \end{equation}
 \end{document}
