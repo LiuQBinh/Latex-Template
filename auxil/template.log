@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  4 SEP 2022 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  4 SEP 2022 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1277,7 +1277,7 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 76
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-<hcmut.png, id=6, 272.01625pt x 277.035pt>
+<hcmut.png, id=42, 272.01625pt x 277.035pt>
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
 Package pdftex.def Info: hcmut.png  used on input line 76.
@@ -1291,9 +1291,6 @@ File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `T5/cmtt/m/n' tried instead on input line 76.
 
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 76.
-
 [1{C:/Users/binh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./hcmut.png>]
@@ -1301,10 +1298,6 @@ File: hcmut.png Graphic file (type png)
 <use hcmut.png>
 Package pdftex.def Info: hcmut.png  used on input line 85.
 (pdftex.def)             Requested size: 85.35826pt x 86.93253pt.
-
-Overfull \hbox (12.45943pt too wide) in paragraph at lines 90--101
- [] 
- []
 
 
 template.tex:106: LaTeX Error: Unicode character Ìƒ (U+0303)
@@ -1339,7 +1332,197 @@ been already used, duplicate ignored
                    \relax 
 l.114     \end{titlepage}
                           [1]
-(C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc)
+(C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+                                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 5.
+
+
+LaTeX Warning: Command \d invalid in math mode on input line 5.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Extra }, or
+ forgotten $.
+<argument> ... 2\ nghiá»‡m \lambda _1, \lambda _2}
+                                                  \hyper@linkend 
+l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+                                                  %
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no » in font cmr10!
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing } i
+nserted.
+<inserted text> 
+                }
+l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing { i
+nserted.
+<to be read again> 
+                   \begingroup 
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: LaTeX Error
+: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing } i
+nserted.
+<inserted text> 
+                }
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Extra }, or
+ forgotten $.
+<argument> ...alues,\ \lambda _\(1,2\)= p \pm qi }
+                                                  \hyper@linkend 
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing } i
+nserted.
+<inserted text> 
+                }
+l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
+                                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Extra }, or
+ forgotten $.
+<argument> ...}\Delta = 0,\ Repeated\ Eigenvalues}
+                                                  \hyper@linkend 
+l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
+                                                  %
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing $ i
+nserted.
+<inserted text> 
+                $
+l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing } i
+nserted.
+<inserted text> 
+                }
+l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
+                                                  %
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+)
 \tf@toc=\write5
 \openout5 = `template.toc'.
 
@@ -1347,10 +1530,6 @@ File: hcmut.png Graphic file (type png)
 <use hcmut.png>
 Package pdftex.def Info: hcmut.png  used on input line 118.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 118.
-
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -1593,14 +1772,11 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<./hcmut.png, id=29, 272.01625pt x 277.035pt>
+<./hcmut.png, id=82, 272.01625pt x 277.035pt>
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 96.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 96.
-
 [2 <./hcmut.png>]
 ./p1.tex:97: Missing $ inserted.
 <inserted text> 
@@ -1793,9 +1969,6 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 216.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 216.
-
 [3]
 ./p1.tex:326: Missing $ inserted.
 <inserted text> 
@@ -1875,9 +2048,6 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 361.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 361.
-
 [4]
 ./p1.tex:370: Missing $ inserted.
 <inserted text> 
@@ -1923,9 +2093,6 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 497.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 497.
-
 [5]
 ./p1.tex:541: Missing $ inserted.
 <inserted text> 
@@ -2045,9 +2212,6 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 41.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 41.
-
 [6]
 Underfull \hbox (badness 10000) in paragraph at lines 57--63
 
@@ -2062,9 +2226,6 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 111.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 111.
-
 [7]
 Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
@@ -2081,24 +2242,9 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 147.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 147.
-
 [8] (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `template.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `template.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  96788E4EA220F24FCE0C307926CEFE10;1761.
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: 96788E4EA220F24FCE0C307926CEFE10;1761.
  ) ) )
 (\end occurred inside a group at level 2)
 
@@ -2106,11 +2252,11 @@ Package rerunfilecheck Info: Checksums for `template.out':
 ### semi simple group (level 1) entered at line 1 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 25761 strings out of 478338
- 476572 string characters out of 2837172
- 770312 words of memory out of 3000000
- 43683 multiletter control sequences out of 15000+600000
- 484783 words of font info for 55 fonts, out of 8000000 for 9000
+ 25769 strings out of 478338
+ 476725 string characters out of 2837172
+ 771164 words of memory out of 3000000
+ 43692 multiletter control sequences out of 15000+600000
+ 483799 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,25n,90p,423b,712s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\binh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
@@ -2125,16 +2271,15 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
 s/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
 C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C
 :/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:
-/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx7.pfb><C:/U
-sers/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Use
-rs/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/
-binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/b
-inh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/bi
-nh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
+/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/U
+sers/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/User
+s/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users
+/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/
+binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
 Output written on C:/Users\binh\Documents\GitHub\Latex-Template\out\template.pd
-f (10 pages, 240911 bytes).
+f (10 pages, 245183 bytes).
 PDF statistics:
- 172 PDF objects out of 1000 (max. 8388607)
+ 213 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
