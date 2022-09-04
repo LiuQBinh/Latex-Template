@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  4 SEP 2022 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  4 SEP 2022 16:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1200,26 +1200,26 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
 \openout1 = `template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
@@ -1248,65 +1248,89 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 74.
+(lastpage)             ! on input line 75.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 75.
  (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.out)
 (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.out)
 \@outlinefile=\write4
 \openout4 = `template.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
 
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
 
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 75
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 76
 .
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-<hcmut.png, id=42, 272.01625pt x 277.035pt>
+<hcmut.png, id=6, 272.01625pt x 277.035pt>
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 75.
+Package pdftex.def Info: hcmut.png  used on input line 76.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 7
-5.
+6.
 
 (C:\Users\binh\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 75.
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 76.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 76.
 
 [1{C:/Users/binh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./hcmut.png>]
 File: hcmut.png Graphic file (type png)
 <use hcmut.png>
-Package pdftex.def Info: hcmut.png  used on input line 84.
+Package pdftex.def Info: hcmut.png  used on input line 85.
 (pdftex.def)             Requested size: 85.35826pt x 86.93253pt.
 
-Overfull \hbox (12.45943pt too wide) in paragraph at lines 89--102
+Overfull \hbox (12.45943pt too wide) in paragraph at lines 90--101
  [] 
  []
 
 
-Overfull \hbox (2.08914pt too wide) in paragraph at lines 105--110
-[][][] 
- []
+template.tex:106: LaTeX Error: Unicode character ̃ (U+0303)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106                 & Students: & Nguyễ
+                                            n Thị Thanh Uyên - 2133187. \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+template.tex:106: LaTeX Error: Unicode character ̣ (U+0323)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...            & Students: & Nguyễn Thị
+                                                   Thanh Uyên - 2133187. \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -1315,197 +1339,7 @@ been already used, duplicate ignored
                    \relax 
 l.114     \end{titlepage}
                           [1]
-(C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
-                                                  %
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 5.
-
-
-LaTeX Warning: Command \d invalid in math mode on input line 5.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Extra }, or
- forgotten $.
-<argument> ... 2\ nghiệm \lambda _1, \lambda _2}
-                                                  \hyper@linkend 
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
-                                                  %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-Missing character: There is no � in font cmr10!
-Missing character: There is no � in font cmr10!
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:5: Missing } i
-nserted.
-<inserted text> 
-                }
-l.5 ...1, \lambda _2}{3}{subsubsubsection.2.1.1.1}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing { i
-nserted.
-<to be read again> 
-                   \begingroup 
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: LaTeX Error
-: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing } i
-nserted.
-<inserted text> 
-                }
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Extra }, or
- forgotten $.
-<argument> ...alues,\ \lambda _\(1,2\)= p \pm qi }
-                                                  \hyper@linkend 
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:6: Missing } i
-nserted.
-<inserted text> 
-                }
-l.6 ...\)= p \pm qi }{3}{subsubsubsection.2.1.1.2}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Extra }, or
- forgotten $.
-<argument> ...}\Delta = 0,\ Repeated\ Eigenvalues}
-                                                  \hyper@linkend 
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing $ i
-nserted.
-<inserted text> 
-                $
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc:7: Missing } i
-nserted.
-<inserted text> 
-                }
-l.7 ...\ Eigenvalues}{5}{subsubsubsection.2.1.1.3}
-                                                  %
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-)
+(C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.toc)
 \tf@toc=\write5
 \openout5 = `template.toc'.
 
@@ -1514,15 +1348,43 @@ File: hcmut.png Graphic file (type png)
 Package pdftex.def Info: hcmut.png  used on input line 118.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
 
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 118.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.118     \newpage
                    [1]
-Overfull \hbox (13.70117pt too wide) in paragraph at lines 123--149
- [] 
- []
+
+template.tex:138: LaTeX Error: Unicode character ̃ (U+0303)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 ...ltirow{3}{*}{Nguyễn Thị Thanh Uyên}
+                                                         & \multirow{3}{*}{2...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+template.tex:138: LaTeX Error: Unicode character ̣ (U+0323)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 ...ltirow{3}{*}{Nguyễn Thị Thanh Uyên}
+                                                         & \multirow{3}{*}{2...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 (./p1.tex
 
@@ -1532,29 +1394,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \usepackage
-               {amsmath}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./p1.tex:3: LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 \begin{document}
+l.1 \begin{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./p1.tex:23: Missing { inserted.
+./p1.tex:21: Missing { inserted.
 <to be read again> 
                    \begingroup 
-l.23         \vec{X} = \vec{\eta}e^\(
+l.21         \vec{X} = \vec{\eta}e^\(
                                      \lambda t\)
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -1562,22 +1411,22 @@ so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
 
-./p1.tex:23: LaTeX Error: Bad math environment delimiter.
+./p1.tex:21: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23         \vec{X} = \vec{\eta}e^\(
+l.21         \vec{X} = \vec{\eta}e^\(
                                      \lambda t\)
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./p1.tex:23: Missing } inserted.
+./p1.tex:21: Missing } inserted.
 <inserted text> 
                 }
-l.23         \vec{X} = \vec{\eta}e^\(\lambda t\)
+l.21         \vec{X} = \vec{\eta}e^\(\lambda t\)
                                                 
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1585,31 +1434,31 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:23: Display math should end with $$.
+./p1.tex:21: Display math should end with $$.
 <to be read again> 
                     
-l.23         \vec{X} = \vec{\eta}e^\(\lambda t\)
+l.21         \vec{X} = \vec{\eta}e^\(\lambda t\)
                                                 
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
 
-./p1.tex:24: LaTeX Error: Bad math environment delimiter.
+./p1.tex:22: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24     \end{equation*}
+l.22     \end{equation*}
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./p1.tex:24: Missing $ inserted.
+./p1.tex:22: Missing $ inserted.
 <inserted text> 
                 $
-l.24     \end{equation*}
+l.22     \end{equation*}
                         
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1617,26 +1466,26 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:24: Display math should end with $$.
+./p1.tex:22: Display math should end with $$.
 <to be read again> 
                    \endgroup 
-l.24     \end{equation*}
+l.22     \end{equation*}
                         
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-./p1.tex:25: Missing $ inserted.
+./p1.tex:23: Missing $ inserted.
 <inserted text> 
                 $
-l.25     ở lây \begin{matrix}
+l.23     ở lây \begin{matrix}
                                 \lambda\end{matrix} and \begin{matrix}\vec{\...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:25: Missing $ inserted.
+./p1.tex:23: Missing $ inserted.
 <inserted text> 
                 $
-l.25 ...ở lây \begin{matrix}\lambda\end{matrix}
+l.23 ...ở lây \begin{matrix}\lambda\end{matrix}
                                                    and \begin{matrix}\vec{\e...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1644,18 +1493,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:25: Missing $ inserted.
+./p1.tex:23: Missing $ inserted.
 <inserted text> 
                 $
-l.25 ...rix}\lambda\end{matrix} and \begin{matrix}
+l.23 ...rix}\lambda\end{matrix} and \begin{matrix}
                                                   \vec{\eta}\end{matrix} là...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:25: Missing $ inserted.
+./p1.tex:23: Missing $ inserted.
 <inserted text> 
                 $
-l.25 ...} and \begin{matrix}\vec{\eta}\end{matrix}
+l.23 ...} and \begin{matrix}\vec{\eta}\end{matrix}
                                                    là eigenvalues và eigen...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1663,24 +1512,24 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:64: Missing $ inserted.
+./p1.tex:62: Missing $ inserted.
 <inserted text> 
                 $
-l.64 ...4)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
+l.62 ...4)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 64.
+LaTeX Warning: Command \' invalid in math mode on input line 62.
 
 
-LaTeX Warning: Command \d invalid in math mode on input line 64.
+LaTeX Warning: Command \d invalid in math mode on input line 62.
 
-./p1.tex:64: Missing $ inserted.
+./p1.tex:62: Missing $ inserted.
 <inserted text> 
                 $
-l.64 ...4)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
+l.62 ...4)\ có\ 2\ nghiệm \lambda_1, \lambda_2}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1693,36 +1542,36 @@ to 0.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 64.
+(hyperref)                removing `\Delta' on input line 62.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lambda' on input line 64.
+(hyperref)                removing `\lambda' on input line 62.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 64.
+(hyperref)                removing `subscript' on input line 62.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lambda' on input line 64.
+(hyperref)                removing `\lambda' on input line 62.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 64.
+(hyperref)                removing `subscript' on input line 62.
 
-./p1.tex:65: Missing $ inserted.
+./p1.tex:63: Missing $ inserted.
 <inserted text> 
                 $
-l.65     Với \begin{matrix}
+l.63     Với \begin{matrix}
                              \lambda_1\end{matrix}, chúng ta sẽ xử lý ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:65: Missing $ inserted.
+./p1.tex:63: Missing $ inserted.
 <inserted text> 
                 $
-l.65     Với \begin{matrix}\lambda_1\end{matrix}
+l.63     Với \begin{matrix}\lambda_1\end{matrix}
                                                   , chúng ta sẽ xử lý ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1731,37 +1580,40 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./p1.tex:88: Package amsmath Error: Multiple \label's: label 'eq:equation3' wil
+./p1.tex:86: Package amsmath Error: Multiple \label's: label 'eq:equation3' wil
 l be lost.
 
 See the amsmath package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 ...    =\dfrac{d - \lambda_1}{-c}\eta_2\label
+l.86 ...    =\dfrac{d - \lambda_1}{-c}\eta_2\label
                                                   {eq:equation3'}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<./hcmut.png, id=82, 272.01625pt x 277.035pt>
+<./hcmut.png, id=29, 272.01625pt x 277.035pt>
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 89.
+Package pdftex.def Info: ./hcmut.png  used on input line 96.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 96.
+
 [2 <./hcmut.png>]
-./p1.tex:99: Missing $ inserted.
+./p1.tex:97: Missing $ inserted.
 <inserted text> 
                 $
-l.99     tương tự với \begin{matrix}
+l.97     tương tự với \begin{matrix}
                                           \lambda_2\end{matrix}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:99: Missing $ inserted.
+./p1.tex:97: Missing $ inserted.
 <inserted text> 
                 $
-l.99 ... với \begin{matrix}\lambda_2\end{matrix}
+l.97 ... với \begin{matrix}\lambda_2\end{matrix}
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1769,18 +1621,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:125: Missing $ inserted.
+./p1.tex:123: Missing $ inserted.
 <inserted text> 
                 $
-l.125         }
+l.123         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:125: Missing $ inserted.
+./p1.tex:123: Missing $ inserted.
 <inserted text> 
                 $
-l.125         }
+l.123         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1788,18 +1640,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:159: Missing $ inserted.
+./p1.tex:157: Missing $ inserted.
 <inserted text> 
                 $
-l.159         }
+l.157         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:159: Missing $ inserted.
+./p1.tex:157: Missing $ inserted.
 <inserted text> 
                 $
-l.159         }
+l.157         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1807,18 +1659,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:165: Missing $ inserted.
+./p1.tex:163: Missing $ inserted.
 <inserted text> 
                 $
-l.165 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.163 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:165: Missing { inserted.
+./p1.tex:163: Missing { inserted.
 <to be read again> 
                    \begingroup 
-l.165 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.163 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -1826,22 +1678,22 @@ so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
 
-./p1.tex:165: LaTeX Error: Bad math environment delimiter.
+./p1.tex:163: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.163 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./p1.tex:165: Missing } inserted.
+./p1.tex:163: Missing } inserted.
 <inserted text> 
                 }
-l.165 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.163 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1849,54 +1701,54 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:165: Missing $ inserted.
+./p1.tex:163: Missing $ inserted.
 <inserted text> 
                 $
-l.165 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.163 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:165: Missing $ inserted.
+./p1.tex:163: Missing $ inserted.
 <inserted text> 
                 $
-l.165 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
+l.163 ...Eigenvalues,\ \lambda_\(1,2\)= p \pm qi }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 165.
+(hyperref)                removing `\Delta' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lambda' on input line 165.
+(hyperref)                removing `\lambda' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 165.
+(hyperref)                removing `subscript' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 165.
+(hyperref)                removing `math shift' on input line 163.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\pm' on input line 165.
+(hyperref)                removing `\pm' on input line 163.
 
-./p1.tex:167: Missing $ inserted.
+./p1.tex:165: Missing $ inserted.
 <inserted text> 
                 $
-l.167     Dựa vào (3), với \begin{matrix}
+l.165     Dựa vào (3), với \begin{matrix}
                                               \lambda =  p + qi\end{matrix} ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:167: Missing $ inserted.
+./p1.tex:165: Missing $ inserted.
 <inserted text> 
                 $
-l.167 ...egin{matrix}\lambda =  p + qi\end{matrix}
+l.165 ...egin{matrix}\lambda =  p + qi\end{matrix}
                                                    (chọn 1 nghiệm phúc ...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1904,8 +1756,8 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:199: You can't use `macro parameter character #' in horizontal mode.
-l.199 ...h.lamar.edu/Classes/DE/ComplexRoots.aspx#
+./p1.tex:197: You can't use `macro parameter character #' in horizontal mode.
+l.197 ...h.lamar.edu/Classes/DE/ComplexRoots.aspx#
                                                   EulerFormula),
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1913,23 +1765,23 @@ If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
 
-Overfull \hbox (41.05005pt too wide) in paragraph at lines 198--200
+Overfull \hbox (41.05005pt too wide) in paragraph at lines 196--198
 \T5/cmr/m/n/10 �p d�ng c�ng th�c Eu-ler (https://tutorial.math.lamar.edu/Classe
 s/DE/ComplexRoots.aspxEulerFormula), 
  []
 
-./p1.tex:209: Missing $ inserted.
+./p1.tex:207: Missing $ inserted.
 <inserted text> 
                 $
-l.209     Rút gọn \begin{matrix}
+l.207     Rút gọn \begin{matrix}
                                    \eta_2\end{matrix},
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:209: Missing $ inserted.
+./p1.tex:207: Missing $ inserted.
 <inserted text> 
                 $
-l.209 ...�t gọn \begin{matrix}\eta_2\end{matrix}
+l.207 ...�t gọn \begin{matrix}\eta_2\end{matrix}
                                                   ,
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1939,47 +1791,50 @@ my insertion and my current dilemma will both disappear.
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 218.
+Package pdftex.def Info: ./hcmut.png  used on input line 216.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 216.
+
 [3]
-./p1.tex:328: Missing $ inserted.
+./p1.tex:326: Missing $ inserted.
 <inserted text> 
                 $
-l.328     }
+l.326     }
            
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:328: Missing $ inserted.
+./p1.tex:326: Missing $ inserted.
 <inserted text> 
                 $
-l.328     }
+l.326     }
            
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:328: Missing $ inserted.
+./p1.tex:326: Missing $ inserted.
 <inserted text> 
                 $
-l.328     }
+l.326     }
            
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:328: You can't use `\eqno' in math mode.
+./p1.tex:326: You can't use `\eqno' in math mode.
 \endmathdisplay@a ...\df@tag \@empty \else \veqno 
                                                   \alt@tag \df@tag \fi \ifx ...
-l.328     }
+l.326     }
            
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./p1.tex:328: Missing $ inserted.
+./p1.tex:326: Missing $ inserted.
 <inserted text> 
                 $
-l.328     }
+l.326     }
            
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1988,27 +1843,27 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--332
+Underfull \hbox (badness 10000) in paragraph at lines 306--330
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--332
+Underfull \hbox (badness 10000) in paragraph at lines 306--330
 
  []
 
-./p1.tex:362: Missing $ inserted.
+./p1.tex:360: Missing $ inserted.
 <inserted text> 
                 $
-l.362         }
+l.360         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:362: Missing $ inserted.
+./p1.tex:360: Missing $ inserted.
 <inserted text> 
                 $
-l.362         }
+l.360         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2018,66 +1873,72 @@ my insertion and my current dilemma will both disappear.
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 363.
+Package pdftex.def Info: ./hcmut.png  used on input line 361.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 361.
+
 [4]
-./p1.tex:372: Missing $ inserted.
+./p1.tex:370: Missing $ inserted.
 <inserted text> 
                 $
-l.372 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
+l.370 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:372: Missing $ inserted.
+./p1.tex:370: Missing $ inserted.
 <inserted text> 
                 $
-l.372 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
+l.370 ...ction{\Delta = 0,\ Repeated\ Eigenvalues}
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Delta' on input line 372.
+(hyperref)                removing `\Delta' on input line 370.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--380
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 400--405
+Underfull \hbox (badness 10000) in paragraph at lines 371--378
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 407--412
+Underfull \hbox (badness 10000) in paragraph at lines 398--403
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 407--412
+Underfull \hbox (badness 10000) in paragraph at lines 405--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--410
 
  []
 
 File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
-Package pdftex.def Info: ./hcmut.png  used on input line 499.
+Package pdftex.def Info: ./hcmut.png  used on input line 497.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 497.
+
 [5]
-./p1.tex:543: Missing $ inserted.
+./p1.tex:541: Missing $ inserted.
 <inserted text> 
                 $
-l.543         }
+l.541         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:543: Extra }, or forgotten $.
+./p1.tex:541: Extra }, or forgotten $.
 \fbox  ...x {\color@begingroup \kern \fboxsep {#1}
                                                   \kern \fboxsep \color@endg...
-l.543         }
+l.541         }
                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2085,18 +1946,18 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./p1.tex:543: Missing $ inserted.
+./p1.tex:541: Missing $ inserted.
 <inserted text> 
                 $
-l.543         }
+l.541         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:543: Missing } inserted.
+./p1.tex:541: Missing } inserted.
 <inserted text> 
                 }
-l.543         }
+l.541         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2104,18 +1965,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:575: Missing $ inserted.
+./p1.tex:573: Missing $ inserted.
 <inserted text> 
                 $
-l.575         }
+l.573         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:575: Extra }, or forgotten $.
+./p1.tex:573: Extra }, or forgotten $.
 \fbox  ...x {\color@begingroup \kern \fboxsep {#1}
                                                   \kern \fboxsep \color@endg...
-l.575         }
+l.573         }
                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2123,18 +1984,18 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-./p1.tex:575: Missing $ inserted.
+./p1.tex:573: Missing $ inserted.
 <inserted text> 
                 $
-l.575         }
+l.573         }
                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./p1.tex:575: Missing } inserted.
+./p1.tex:573: Missing } inserted.
 <inserted text> 
                 }
-l.575         }
+l.573         }
                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2142,10 +2003,10 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./p1.tex:577: Undefined control sequence.
+./p1.tex:575: Undefined control sequence.
 <recently read> \lamba 
                        
-l.577     Với $\lamba
+l.575     Với $\lamba
                        _1, \lamba_2$ tính từ (7), và $\rho_1, \rho_2$ đ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2153,8 +2014,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./p1.tex:577: Undefined control sequence.
-l.577     Với $\lamba_1, \lamba
+./p1.tex:575: Undefined control sequence.
+l.575     Với $\lamba_1, \lamba
                                  _2$ tính từ (7), và $\rho_1, \rho_2$ đ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2164,7 +2025,7 @@ and I'll forget about whatever was undefined.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 579.
+(hyperref)                than one, level fixed on input line 577.
 
 (./p3.tex
 
@@ -2184,6 +2045,9 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 41.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 41.
+
 [6]
 Underfull \hbox (badness 10000) in paragraph at lines 57--63
 
@@ -2198,6 +2062,9 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 111.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 111.
+
 [7]
 Underfull \hbox (badness 10000) in paragraph at lines 128--133
 
@@ -2214,24 +2081,36 @@ File: ./hcmut.png Graphic file (type png)
 <use ./hcmut.png>
 Package pdftex.def Info: ./hcmut.png  used on input line 147.
 (pdftex.def)             Requested size: 22.76204pt x 22.75928pt.
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 147.
+
 [8] (C:/Users\binh\Documents\GitHub\Latex-Template\auxil\template.aux)
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 96788E4EA220F24FCE0C307926CEFE10;1761.
+
+Package rerunfilecheck Warning: File `template.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `template.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  96788E4EA220F24FCE0C307926CEFE10;1761.
  ) ) )
 (\end occurred inside a group at level 2)
 
 ### semi simple group (level 2) entered at line 10 (\begingroup)
-### semi simple group (level 1) entered at line 3 (\begingroup)
+### semi simple group (level 1) entered at line 1 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 25767 strings out of 478338
- 476715 string characters out of 2837172
- 771164 words of memory out of 3000000
- 43690 multiletter control sequences out of 15000+600000
- 483799 words of font info for 54 fonts, out of 8000000 for 9000
+ 25761 strings out of 478338
+ 476572 string characters out of 2837172
+ 770312 words of memory out of 3000000
+ 43683 multiletter control sequences out of 15000+600000
+ 484783 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,25n,90p,423b,712s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\binh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
@@ -2246,15 +2125,16 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
 s/binh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><
 C:/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C
 :/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:
-/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/U
-sers/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/User
-s/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users
-/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/
-binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
+/Users/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx7.pfb><C:/U
+sers/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Use
+rs/binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/
+binh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/b
+inh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/bi
+nh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
 Output written on C:/Users\binh\Documents\GitHub\Latex-Template\out\template.pd
-f (10 pages, 245321 bytes).
+f (10 pages, 240911 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
+ 172 PDF objects out of 1000 (max. 8388607)
  33 named destinations out of 1000 (max. 500000)
- 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
