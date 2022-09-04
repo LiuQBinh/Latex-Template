@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  5 SEP 2022 01:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.8.28)  5 SEP 2022 01:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3899,7 +3899,7 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 Here is how much of TeX's memory you used:
  27458 strings out of 478338
  510344 string characters out of 2837172
- 798032 words of memory out of 3000000
+ 798056 words of memory out of 3000000
  45274 multiletter control sequences out of 15000+600000
  482976 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3922,7 +3922,7 @@ nh/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr8.pfb><C:/Users/binh/
 AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb><C:/Users/binh/A
 ppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt8.pfb>
 Output written on C:/Users\binh\Documents\GitHub\Latex-Template\out\template.pd
-f (14 pages, 271926 bytes).
+f (14 pages, 271803 bytes).
 PDF statistics:
  283 PDF objects out of 1000 (max. 8388607)
  70 named destinations out of 1000 (max. 500000)
